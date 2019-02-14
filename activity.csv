@@ -1,0 +1,1160 @@
+09-2003,I,Adelaide,Denpasar,Garuda Indonesia,DPS-ADL-MEL,Indonesia,SE Asia,Indonesia,SE Asia,0,13,3809
+09-2003,I,Adelaide,Hong Kong,Cathay Pacific Airways,HKG-ADL-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2008
+09-2003,I,Adelaide,Kuala Lumpur,Malaysia Airlines,KUL-ADL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4726
+09-2003,I,Adelaide,Singapore,Qantas Airways,SIN-DRW-ADL-MEL,Singapore,SE Asia,Singapore,SE Asia,1,4,908
+09-2003,I,Adelaide,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,1,9,2038
+09-2003,I,Adelaide,Singapore,Singapore Airlines,SIN-ADL,Singapore,SE Asia,Singapore,SE Asia,0,12,3876
+09-2003,I,Brisbane,Auckland,Air New Zealand,AKL-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,36,12624
+09-2003,I,Brisbane,Auckland,Freedom Air International,AKL-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,18,2556
+09-2003,I,Brisbane,Auckland,Garuda Indonesia,AKL-BNE-DPS,New Zealand,New Zealand,New Zealand,New Zealand,0,8,2296
+09-2003,I,Brisbane,Auckland,Malaysia Airlines,AKL-BNE-KUL,New Zealand,New Zealand,New Zealand,New Zealand,0,14,5404
+09-2003,I,Brisbane,Auckland,Qantas Airways,LAX-AKL-BNE,New Zealand,New Zealand,USA,N America,0,18,7733
+09-2003,I,Brisbane,Auckland,Qantas Airways,LAX-AKL-BNE-SYD,New Zealand,New Zealand,USA,N America,0,12,5136
+09-2003,I,Brisbane,Auckland,Thai Airways International,AKL-BNE-BKK,New Zealand,New Zealand,New Zealand,New Zealand,0,13,3705
+09-2003,I,Brisbane,Bandar Seri Begawan,Royal Brunei Airlines,BWN-BNE,Brunei,SE Asia,Brunei,SE Asia,0,18,3564
+09-2003,I,Brisbane,Bangkok,Thai Airways International,BKK-BNE-AKL,Thailand,SE Asia,Thailand,SE Asia,0,13,3705
+09-2003,I,Brisbane,Christchurch,Air New Zealand,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1086
+09-2003,I,Brisbane,Christchurch,Freedom Air International,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,29,4118
+09-2003,I,Brisbane,Christchurch,Qantas Airways,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,13,2590
+09-2003,I,Brisbane,Denpasar,Garuda Indonesia,DPS-BNE,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+09-2003,I,Brisbane,Denpasar,Garuda Indonesia,DPS-BNE-AKL,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2296
+09-2003,I,Brisbane,Dunedin,Freedom Air International,DUD-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1778
+09-2003,I,Brisbane,Hamilton,Freedom Air International,HLZ-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,20,2714
+09-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,4,1244
+09-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-BNE-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+09-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-CNS-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+09-2003,I,Brisbane,Honiara,Solomon Airlines,HIR-BNE,Solomon Islands,Islands,Solomon Islands,Islands,0,9,1224
+09-2003,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE,Malaysia,SE Asia,Malaysia,SE Asia,0,12,2748
+09-2003,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE-AKL,Malaysia,SE Asia,Malaysia,SE Asia,0,13,5018
+09-2003,I,Brisbane,Los Angeles,Qantas Airways,LAX-AKL-BNE,USA,N America,USA,N America,1,18,7733
+09-2003,I,Brisbane,Los Angeles,Qantas Airways,LAX-AKL-BNE-SYD,USA,N America,USA,N America,1,12,5136
+09-2003,I,Brisbane,Manila,Qantas Airways,MNL-BNE-SYD,Philippines,SE Asia,Philippines,SE Asia,0,4,908
+09-2003,I,Brisbane,Nadi,Fiji Airways,NAN-BNE,Fiji,Islands,Fiji,Islands,0,30,4478
+09-2003,I,Brisbane,Nauru,Our Airline,INU-BNE,Nauru,Islands,Nauru,Islands,0,5,550
+09-2003,I,Brisbane,Nauru,Our Airline,INU-BNE-MEL,Nauru,Islands,Nauru,Islands,0,4,440
+09-2003,I,Brisbane,Noumea,Air Caledonie,NOU-BNE,New Caledonia,Islands,New Caledonia,Islands,0,7,1027
+09-2003,I,Brisbane,Noumea,Qantas Airways,NOU-BNE,New Caledonia,Islands,New Caledonia,Islands,0,4,560
+09-2003,I,Brisbane,Osaka,Japan Airlines,OSA-BNE-SYD,Japan,NE Asia,Japan,NE Asia,0,30,14326
+09-2003,I,Brisbane,Palmerston,Freedom Air International,PMR-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,17,2279
+09-2003,I,Brisbane,Port Moresby,Air Niugini,POM-BNE,Papua New Guinea,Islands,Papua New Guinea,Islands,0,17,3910
+09-2003,I,Brisbane,Port Moresby,Air Niugini,POM-BNE-SYD,Papua New Guinea,Islands,Papua New Guinea,Islands,0,8,1840
+09-2003,I,Brisbane,Port Vila,Air Vanuatu,VLI-BNE,Vanuatu,Islands,Vanuatu,Islands,0,13,1638
+09-2003,I,Brisbane,Queenstown,Air New Zealand,ZQN-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,3,408
+09-2003,I,Brisbane,Queenstown,Qantas Airways,ZQN-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,4,382
+09-2003,I,Brisbane,Seoul,Korean Air,SEL-BNE,Korea,NE Asia,Korea,NE Asia,0,8,2094
+09-2003,I,Brisbane,Singapore,Qantas Airways,SIN-BNE,Singapore,SE Asia,Singapore,SE Asia,0,22,9284
+09-2003,I,Brisbane,Singapore,Qantas Airways,SIN-BNE-SYD,Singapore,SE Asia,Singapore,SE Asia,0,8,2596
+09-2003,I,Brisbane,Singapore,Singapore Airlines,SIN-BNE,Singapore,SE Asia,Singapore,SE Asia,0,60,19380
+09-2003,I,Brisbane,Taipei,China Airlines,TPE-BNE,Taiwan,NE Asia,Taiwan,NE Asia,0,5,1380
+09-2003,I,Brisbane,Taipei,Eva Air,TPE-BNE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,2034
+09-2003,I,Brisbane,Tokyo,Japan Airlines,TYO-BNE,Japan,NE Asia,Japan,NE Asia,0,30,12734
+09-2003,I,Brisbane,Wellington,Freedom Air International,WLG-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,25,3275
+09-2003,I,Brisbane,Wellington,Qantas Airways,WLG-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1560
+09-2003,I,Cairns,Auckland,Air New Zealand,AKL-CNS,New Zealand,New Zealand,New Zealand,New Zealand,0,9,3040
+09-2003,I,Cairns,Fukuoka,Australian Airlines,FUK-CNS,Japan,NE Asia,Japan,NE Asia,0,3,771
+09-2003,I,Cairns,Fukuoka,Australian Airlines,FUK-OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,1,10,2710
+09-2003,I,Cairns,Guam,Continental Micronesia,GUM-CNS,Guam,Islands,Guam,Islands,0,13,2002
+09-2003,I,Cairns,Hong Kong,Australian Airlines,HKG-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2136
+09-2003,I,Cairns,Hong Kong,Cathay Pacific Airways,HKG-BNE-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+09-2003,I,Cairns,Hong Kong,Cathay Pacific Airways,HKG-CNS-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+09-2003,I,Cairns,Kota Kinabalu,Australian Airlines,BKI-SIN-CNS,Malaysia,SE Asia,Malaysia,SE Asia,1,4,1084
+09-2003,I,Cairns,Nagoya,Australian Airlines,NGO-CNS,Japan,NE Asia,Japan,NE Asia,0,4,1084
+09-2003,I,Cairns,Nagoya,Australian Airlines,NGO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,0,26,7046
+09-2003,I,Cairns,Osaka,Australian Airlines,FUK-OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,0,10,2710
+09-2003,I,Cairns,Osaka,Australian Airlines,OSA-CNS,Japan,NE Asia,Japan,NE Asia,0,2,458
+09-2003,I,Cairns,Osaka,Australian Airlines,OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,0,18,4878
+09-2003,I,Cairns,Port Moresby,Air Niugini,POM-CNS,Papua New Guinea,Islands,Papua New Guinea,Islands,0,47,3414
+09-2003,I,Cairns,Singapore,Australian Airlines,BKI-SIN-CNS,Singapore,SE Asia,Malaysia,SE Asia,0,4,1084
+09-2003,I,Cairns,Singapore,Australian Airlines,SIN-CNS,Singapore,SE Asia,Singapore,SE Asia,0,9,2439
+09-2003,I,Cairns,Tokyo,Qantas Airways,TYO-CNS,Japan,NE Asia,Japan,NE Asia,0,10,4360
+09-2003,I,Cairns,Tokyo,Qantas Airways,TYO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,0,20,8646
+09-2003,I,Christmas Island,Jakarta,Merpati Nusantara Airlines,JKT-XCH,Indonesia,SE Asia,Indonesia,SE Asia,0,4,400
+09-2003,I,Darwin,Bandar Seri Begawan,Royal Brunei Airlines,BWN-DRW,Brunei,SE Asia,Brunei,SE Asia,0,8,1204
+09-2003,I,Darwin,Denpasar,Garuda Indonesia,DPS-DRW,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1072
+09-2003,I,Darwin,Denpasar,Qantas Airways,DPS-DRW,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1090
+09-2003,I,Darwin,Singapore,Qantas Airways,SIN-DRW-ADL-MEL,Singapore,SE Asia,Singapore,SE Asia,0,4,908
+09-2003,I,Darwin,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,0,9,2043
+09-2003,I,Gold Coast,Auckland,Air New Zealand,AKL-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,1,136
+09-2003,I,Gold Coast,Auckland,Freedom Air International,AKL-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,4255
+09-2003,I,Gold Coast,Christchurch,Freedom Air International,CHC-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1846
+09-2003,I,Gold Coast,Dunedin,Freedom Air International,DUD-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1088
+09-2003,I,Gold Coast,Fukuoka,Australian Airlines,FUK-OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,2,10,2710
+09-2003,I,Gold Coast,Hamilton,Freedom Air International,HLZ-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1098
+09-2003,I,Gold Coast,Osaka,Australian Airlines,FUK-OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,1,10,2710
+09-2003,I,Gold Coast,Osaka,Australian Airlines,OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,1,18,4878
+09-2003,I,Melbourne,Auckland,Air New Zealand,AKL-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,59,12687
+09-2003,I,Melbourne,Auckland,Emirates,AKL-MEL-SIN-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,29,10635
+09-2003,I,Melbourne,Auckland,Qantas Airways,AKL-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,60,13957
+09-2003,I,Melbourne,Bangkok,Qantas Airways,LON-BKK-SYD-MEL,Thailand,SE Asia,UK,Europe,1,29,11308
+09-2003,I,Melbourne,Bangkok,Thai Airways International,BKK-MEL,Thailand,SE Asia,Thailand,SE Asia,0,20,5700
+09-2003,I,Melbourne,Bangkok,Thai Airways International,BKK-SYD-MEL,Thailand,SE Asia,Thailand,SE Asia,1,29,8458
+09-2003,I,Melbourne,Beijing,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,2709
+09-2003,I,Melbourne,Beijing,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,1,5,1505
+09-2003,I,Melbourne,Chicago,United Airlines,CHI-LAX-SYD-MEL,USA,N America,USA,N America,2,30,10410
+09-2003,I,Melbourne,Christchurch,Air New Zealand,CHC-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,3540
+09-2003,I,Melbourne,Christchurch,Qantas Airways,CHC-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,25,4040
+09-2003,I,Melbourne,Denpasar,Air Paradise International,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2403
+09-2003,I,Melbourne,Denpasar,Air Paradise International,DPS-SYD-MEL,Indonesia,SE Asia,Indonesia,SE Asia,1,8,2038
+09-2003,I,Melbourne,Denpasar,Australian Airlines,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,4,1084
+09-2003,I,Melbourne,Denpasar,Garuda Indonesia,DPS-ADL-MEL,Indonesia,SE Asia,Indonesia,SE Asia,1,13,3809
+09-2003,I,Melbourne,Denpasar,Garuda Indonesia,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+09-2003,I,Melbourne,Dubai,Emirates,DXB-SIN-MEL-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,30,11015
+09-2003,I,Melbourne,Dunedin,Freedom Air International,DUD-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,4,552
+09-2003,I,Melbourne,Guangzhou,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,0,9,2709
+09-2003,I,Melbourne,Guangzhou,China Southern Airlines,CAN-MEL-SYD,China,NE Asia,China,NE Asia,0,9,2583
+09-2003,I,Melbourne,Hamilton,Freedom Air International,HLZ-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1068
+09-2003,I,Melbourne,Hanoi,Vietnam Airlines,HAN-SGN-MEL,Vietnam,SE Asia,Vietnam,SE Asia,1,9,2310
+09-2003,I,Melbourne,Ho Chi Minh City,Vietnam Airlines,HAN-SGN-MEL,Vietnam,SE Asia,Vietnam,SE Asia,0,9,2310
+09-2003,I,Melbourne,Hong Kong,Cathay Pacific Airways,HKG-ADL-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2008
+09-2003,I,Melbourne,Hong Kong,Cathay Pacific Airways,HKG-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,30,7522
+09-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,2951
+09-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-MEL-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,7,1756
+09-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-SYD-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,15,3405
+09-2003,I,Melbourne,Kuala Lumpur,Lauda Air,VIE-KUL-MEL,Malaysia,SE Asia,Austria,Europe,0,8,2752
+09-2003,I,Melbourne,Kuala Lumpur,Malaysia Airlines,KUL-MEL,Malaysia,SE Asia,Malaysia,SE Asia,0,43,11954
+09-2003,I,Melbourne,Kuala Lumpur,Malaysia Airlines,KUL-SYD-MEL,Malaysia,SE Asia,Malaysia,SE Asia,1,17,4726
+09-2003,I,Melbourne,London,British Airways,LON-SIN-MEL,UK,Europe,UK,Europe,1,27,9477
+09-2003,I,Melbourne,London,Qantas Airways,LON-BKK-SYD-MEL,UK,Europe,UK,Europe,2,29,11308
+09-2003,I,Melbourne,London,Qantas Airways,LON-SIN-MEL,UK,Europe,UK,Europe,1,10,3940
+09-2003,I,Melbourne,London,Qantas Airways,LON-SIN-MEL-SYD,UK,Europe,UK,Europe,1,16,6231
+09-2003,I,Melbourne,Los Angeles,Qantas Airways,LAX-MEL,USA,N America,USA,N America,0,29,10377
+09-2003,I,Melbourne,Los Angeles,Qantas Airways,LAX-SYD-MEL,USA,N America,USA,N America,1,1,358
+09-2003,I,Melbourne,Los Angeles,United Airlines,CHI-LAX-SYD-MEL,USA,N America,USA,N America,1,30,10410
+09-2003,I,Melbourne,Manila,Philippine Airlines,MNL-MEL-SYD,Philippines,SE Asia,Philippines,SE Asia,0,12,3624
+09-2003,I,Melbourne,Mauritius,Air Mauritius,MRU-PER-MEL,Mauritius,Africa,Mauritius,Africa,1,5,1470
+09-2003,I,Melbourne,Nadi,Fiji Airways,NAN-MEL,Fiji,Islands,Fiji,Islands,0,17,5056
+09-2003,I,Melbourne,Nauru,Our Airline,INU-BNE-MEL,Nauru,Islands,Nauru,Islands,1,4,440
+09-2003,I,Melbourne,Palmerston,Freedom Air International,PMR-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,4,520
+09-2003,I,Melbourne,Shanghai,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,0,5,1505
+09-2003,I,Melbourne,Singapore,British Airways,LON-SIN-MEL,Singapore,SE Asia,UK,Europe,0,27,9477
+09-2003,I,Melbourne,Singapore,Emirates,DXB-SIN-MEL-AKL,Singapore,SE Asia,United Arab Emirates,Middle East,0,30,11015
+09-2003,I,Melbourne,Singapore,Qantas Airways,LON-SIN-MEL,Singapore,SE Asia,UK,Europe,0,10,3940
+09-2003,I,Melbourne,Singapore,Qantas Airways,LON-SIN-MEL-SYD,Singapore,SE Asia,UK,Europe,0,16,6231
+09-2003,I,Melbourne,Singapore,Qantas Airways,SIN-DRW-ADL-MEL,Singapore,SE Asia,Singapore,SE Asia,2,4,908
+09-2003,I,Melbourne,Singapore,Singapore Airlines,SIN-MEL,Singapore,SE Asia,Singapore,SE Asia,0,60,21242
+09-2003,I,Melbourne,Tokyo,Qantas Airways,TYO-SYD-MEL,Japan,NE Asia,Japan,NE Asia,1,29,11138
+09-2003,I,Melbourne,Vienna,Lauda Air,VIE-KUL-MEL,Austria,Europe,Austria,Europe,1,8,2752
+09-2003,I,Melbourne,Wellington,Air New Zealand,WLG-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,3590
+09-2003,I,Melbourne,Wellington,Qantas Airways,WLG-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,21,2436
+09-2003,I,Norfolk Island,Auckland,Air New Zealand,AKL-NLK,New Zealand,New Zealand,New Zealand,New Zealand,0,8,912
+09-2003,I,Perth,Auckland,Air New Zealand,AKL-PER,New Zealand,New Zealand,New Zealand,New Zealand,0,17,3910
+09-2003,I,Perth,Bandar Seri Begawan,Royal Brunei Airlines,BWN-PER,Brunei,SE Asia,Brunei,SE Asia,0,13,2574
+09-2003,I,Perth,Bangkok,Thai Airways International,BKK-HKT-PER,Thailand,SE Asia,Thailand,SE Asia,1,9,2745
+09-2003,I,Perth,Bangkok,Thai Airways International,BKK-PER,Thailand,SE Asia,Thailand,SE Asia,0,8,2440
+09-2003,I,Perth,Denpasar,Air Paradise International,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,21,3843
+09-2003,I,Perth,Denpasar,Garuda Indonesia,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,30,4027
+09-2003,I,Perth,Denpasar,Qantas Airways,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1053
+09-2003,I,Perth,Dubai,Emirates,DXB-PER,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,30,9000
+09-2003,I,Perth,Hong Kong,Cathay Pacific Airways,HKG-PER,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,4043
+09-2003,I,Perth,Jakarta,Qantas Airways,JKT-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,7,1588
+09-2003,I,Perth,Johannesburg,Qantas Airways,JNB-PER-SYD,South Africa,Africa,South Africa,Africa,0,1,432
+09-2003,I,Perth,Johannesburg,South African Airways,JNB-PER,South Africa,Africa,South Africa,Africa,0,21,6150
+09-2003,I,Perth,Kuala Lumpur,Malaysia Airlines,KUL-KCH-PER,Malaysia,SE Asia,Malaysia,SE Asia,1,8,2352
+09-2003,I,Perth,Kuala Lumpur,Malaysia Airlines,KUL-PER,Malaysia,SE Asia,Malaysia,SE Asia,0,39,10986
+09-2003,I,Perth,Kuching,Malaysia Airlines,KUL-KCH-PER,Malaysia,SE Asia,Malaysia,SE Asia,0,8,2352
+09-2003,I,Perth,Mauritius,Air Mauritius,MRU-PER-MEL,Mauritius,Africa,Mauritius,Africa,0,5,1470
+09-2003,I,Perth,Paris,Qantas Airways,PAR-SIN-PER,France,Europe,France,Europe,1,10,4319
+09-2003,I,Perth,Phuket,Thai Airways International,BKK-HKT-PER,Thailand,SE Asia,Thailand,SE Asia,0,9,2745
+09-2003,I,Perth,Rome,Qantas Airways,ROM-SIN-PER,Italy,Europe,Italy,Europe,1,2,864
+09-2003,I,Perth,Singapore,Qantas Airways,PAR-SIN-PER,Singapore,SE Asia,France,Europe,0,10,4319
+09-2003,I,Perth,Singapore,Qantas Airways,ROM-SIN-PER,Singapore,SE Asia,Italy,Europe,0,2,864
+09-2003,I,Perth,Singapore,Qantas Airways,SIN-PER,Singapore,SE Asia,Singapore,SE Asia,0,46,11527
+09-2003,I,Perth,Singapore,Qantas Airways,SIN-PER-SYD,Singapore,SE Asia,Singapore,SE Asia,0,2,659
+09-2003,I,Perth,Singapore,Singapore Airlines,SIN-PER,Singapore,SE Asia,Singapore,SE Asia,0,60,19398
+09-2003,I,Perth,Tokyo,Qantas Airways,TYO-PER,Japan,NE Asia,Japan,NE Asia,0,13,2951
+09-2003,I,Sydney,Apia,Polynesian Airlines,APW-IUE-AKL-SYD,Western Samoa,Islands,Western Samoa,Islands,2,5,770
+09-2003,I,Sydney,Apia,Polynesian Airlines,APW-TBU-AKL-SYD,Western Samoa,Islands,Western Samoa,Islands,2,4,616
+09-2003,I,Sydney,Auckland,Aerolineas Argentinas,BUE-AKL-SYD,New Zealand,New Zealand,Argentina,S America,0,8,1976
+09-2003,I,Sydney,Auckland,Air New Zealand,AKL-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,144,23972
+09-2003,I,Sydney,Auckland,Emirates,AKL-SYD-SIN-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,30,11400
+09-2003,I,Sydney,Auckland,LAN Airlines,SCL-AKL-SYD,New Zealand,New Zealand,Chile,S America,0,13,3367
+09-2003,I,Sydney,Auckland,Polynesian Airlines,APW-IUE-AKL-SYD,New Zealand,New Zealand,Western Samoa,Islands,0,5,770
+09-2003,I,Sydney,Auckland,Polynesian Airlines,APW-TBU-AKL-SYD,New Zealand,New Zealand,Western Samoa,Islands,0,4,616
+09-2003,I,Sydney,Auckland,Qantas Airways,AKL-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,145,33021
+09-2003,I,Sydney,Auckland,Qantas Airways,LAX-AKL-BNE-SYD,New Zealand,New Zealand,USA,N America,1,12,5136
+09-2003,I,Sydney,Auckland,Qantas Airways,LAX-AKL-SYD,New Zealand,New Zealand,USA,N America,0,7,1993
+09-2003,I,Sydney,Auckland,Royal Tongan Airlines,TBU-AKL-SYD,New Zealand,New Zealand,Tonga,Islands,0,9,1665
+09-2003,I,Sydney,Auckland,Thai Airways International,AKL-SYD-BKK,New Zealand,New Zealand,New Zealand,New Zealand,0,29,11745
+09-2003,I,Sydney,Bangkok,British Airways,LON-BKK-SYD,Thailand,SE Asia,UK,Europe,0,30,11630
+09-2003,I,Sydney,Bangkok,Qantas Airways,LON-BKK-SYD,Thailand,SE Asia,UK,Europe,0,1,394
+09-2003,I,Sydney,Bangkok,Qantas Airways,LON-BKK-SYD-MEL,Thailand,SE Asia,UK,Europe,0,29,11375
+09-2003,I,Sydney,Bangkok,Thai Airways International,BKK-SYD,Thailand,SE Asia,Thailand,SE Asia,0,1,285
+09-2003,I,Sydney,Bangkok,Thai Airways International,BKK-SYD-AKL,Thailand,SE Asia,Thailand,SE Asia,0,30,12150
+09-2003,I,Sydney,Bangkok,Thai Airways International,BKK-SYD-MEL,Thailand,SE Asia,Thailand,SE Asia,0,29,8458
+09-2003,I,Sydney,Beijing,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,2,9,2709
+09-2003,I,Sydney,Beijing,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,2,5,1505
+09-2003,I,Sydney,Beijing,Air China,BJS-SHA-SYD,China,NE Asia,China,NE Asia,1,12,3612
+09-2003,I,Sydney,Beijing,China Eastern Airlines,BJS-SHA-SYD,China,NE Asia,China,NE Asia,1,17,4879
+09-2003,I,Sydney,Buenos Aires,Aerolineas Argentinas,BUE-AKL-SYD,Argentina,S America,Argentina,S America,1,8,1976
+09-2003,I,Sydney,Chicago,United Airlines,CHI-LAX-SYD-MEL,USA,N America,USA,N America,1,30,10410
+09-2003,I,Sydney,Christchurch,Air New Zealand,CHC-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,60,6870
+09-2003,I,Sydney,Christchurch,Qantas Airways,CHC-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,90,18654
+09-2003,I,Sydney,Denpasar,Air Paradise International,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2403
+09-2003,I,Sydney,Denpasar,Air Paradise International,DPS-SYD-MEL,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2038
+09-2003,I,Sydney,Denpasar,Australian Airlines,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,1,4,1084
+09-2003,I,Sydney,Denpasar,Australian Airlines,SIN-DPS-SYD,Indonesia,SE Asia,Singapore,SE Asia,0,13,3523
+09-2003,I,Sydney,Denpasar,Garuda Indonesia,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,1,5,1465
+09-2003,I,Sydney,Denpasar,Garuda Indonesia,DPS-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,12,3516
+09-2003,I,Sydney,Dubai,Emirates,DXB-SIN-SYD-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,30,11400
+09-2003,I,Sydney,Dunedin,Freedom Air International,DUD-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,4,548
+09-2003,I,Sydney,Frankfurt,Qantas Airways,FRA-SIN-SYD,Germany,Europe,Germany,Europe,1,30,12959
+09-2003,I,Sydney,Guangzhou,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,2709
+09-2003,I,Sydney,Guangzhou,China Southern Airlines,CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,2583
+09-2003,I,Sydney,Guangzhou,China Southern Airlines,CAN-SYD,China,NE Asia,China,NE Asia,0,4,1148
+09-2003,I,Sydney,Hamilton,Freedom Air International,HLZ-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1236
+09-2003,I,Sydney,Hanoi,Vietnam Airlines,HAN-SGN-SYD,Vietnam,SE Asia,Vietnam,SE Asia,1,12,3072
+09-2003,I,Sydney,Ho Chi Minh City,Vietnam Airlines,HAN-SGN-SYD,Vietnam,SE Asia,Vietnam,SE Asia,0,12,3072
+09-2003,I,Sydney,Hong Kong,Cathay Pacific Airways,HKG-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,59,16271
+09-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-MEL-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,7,1756
+09-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,29,10899
+09-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-SYD-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,15,3405
+09-2003,I,Sydney,Honolulu,Air Canada,YVR-HNL-SYD,USA,N America,Canada,N America,0,30,8455
+09-2003,I,Sydney,Honolulu,Qantas Airways,HNL-SYD,USA,N America,USA,N America,0,13,3116
+09-2003,I,Sydney,Jakarta,Qantas Airways,JKT-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,19,4358
+09-2003,I,Sydney,Johannesburg,Qantas Airways,JNB-PER-SYD,South Africa,Africa,South Africa,Africa,1,1,432
+09-2003,I,Sydney,Johannesburg,Qantas Airways,JNB-SYD,South Africa,Africa,South Africa,Africa,0,19,8018
+09-2003,I,Sydney,Kota Kinabalu,Australian Airlines,BKI-SYD,Malaysia,SE Asia,Malaysia,SE Asia,0,4,1084
+09-2003,I,Sydney,Kuala Lumpur,Lauda Air,VIE-KUL-SYD,Malaysia,SE Asia,Austria,Europe,0,22,7568
+09-2003,I,Sydney,Kuala Lumpur,Malaysia Airlines,KUL-SYD,Malaysia,SE Asia,Malaysia,SE Asia,0,30,11580
+09-2003,I,Sydney,Kuala Lumpur,Malaysia Airlines,KUL-SYD-MEL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4726
+09-2003,I,Sydney,London,British Airways,LON-BKK-SYD,UK,Europe,UK,Europe,1,30,11630
+09-2003,I,Sydney,London,British Airways,LON-SIN-SYD,UK,Europe,UK,Europe,1,30,10530
+09-2003,I,Sydney,London,Qantas Airways,LON-BKK-SYD,UK,Europe,UK,Europe,1,1,394
+09-2003,I,Sydney,London,Qantas Airways,LON-BKK-SYD-MEL,UK,Europe,UK,Europe,1,29,11375
+09-2003,I,Sydney,London,Qantas Airways,LON-SIN-MEL-SYD,UK,Europe,UK,Europe,2,16,6231
+09-2003,I,Sydney,London,Qantas Airways,LON-SIN-SYD,UK,Europe,UK,Europe,1,23,9062
+09-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-AKL-BNE-SYD,USA,N America,USA,N America,2,12,5136
+09-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-AKL-SYD,USA,N America,USA,N America,1,7,1993
+09-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-SYD,USA,N America,USA,N America,0,54,19376
+09-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-SYD-MEL,USA,N America,USA,N America,0,1,358
+09-2003,I,Sydney,Los Angeles,Qantas Airways,NYC-LAX-SYD,USA,N America,USA,N America,0,12,4283
+09-2003,I,Sydney,Los Angeles,United Airlines,CHI-LAX-SYD-MEL,USA,N America,USA,N America,0,30,10410
+09-2003,I,Sydney,Manila,Philippine Airlines,MNL-MEL-SYD,Philippines,SE Asia,Philippines,SE Asia,1,12,3624
+09-2003,I,Sydney,Manila,Qantas Airways,MNL-BNE-SYD,Philippines,SE Asia,Philippines,SE Asia,1,4,906
+09-2003,I,Sydney,Manila,Qantas Airways,MNL-SYD,Philippines,SE Asia,Philippines,SE Asia,0,13,2986
+09-2003,I,Sydney,Nadi,Fiji Airways,NAN-SYD,Fiji,Islands,Fiji,Islands,0,30,13740
+09-2003,I,Sydney,Nagoya,Australian Airlines,NGO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,1,26,7044
+09-2003,I,Sydney,New York,Qantas Airways,NYC-LAX-SYD,USA,N America,USA,N America,1,12,4283
+09-2003,I,Sydney,New York,United Airlines,NYC-SFO-SYD,USA,N America,USA,N America,1,30,10410
+09-2003,I,Sydney,Niue,Polynesian Airlines,APW-IUE-AKL-SYD,Niue,Islands,Western Samoa,Islands,1,5,770
+09-2003,I,Sydney,Noumea,Air Caledonie,NOU-SYD,New Caledonia,Islands,New Caledonia,Islands,0,17,3157
+09-2003,I,Sydney,Noumea,Qantas Airways,NOU-SYD,New Caledonia,Islands,New Caledonia,Islands,0,13,2151
+09-2003,I,Sydney,Osaka,Japan Airlines,OSA-BNE-SYD,Japan,NE Asia,Japan,NE Asia,1,30,14326
+09-2003,I,Sydney,Palmerston,Freedom Air International,PMR-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,10,1338
+09-2003,I,Sydney,Port Moresby,Air Niugini,POM-BNE-SYD,Papua New Guinea,Islands,Papua New Guinea,Islands,1,8,1840
+09-2003,I,Sydney,Port Vila,Air Vanuatu,VLI-SYD,Vanuatu,Islands,Vanuatu,Islands,0,23,2878
+09-2003,I,Sydney,Queenstown,Air New Zealand,ZQN-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,8,922
+09-2003,I,Sydney,Queenstown,Qantas Airways,ZQN-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,4,432
+09-2003,I,Sydney,San Francisco,United Airlines,NYC-SFO-SYD,USA,N America,USA,N America,0,30,10410
+09-2003,I,Sydney,Santiago,LAN Airlines,SCL-AKL-SYD,Chile,S America,Chile,S America,1,13,3367
+09-2003,I,Sydney,Seoul,Asiana Airlines,SEL-SYD,Korea,NE Asia,Korea,NE Asia,0,30,9300
+09-2003,I,Sydney,Seoul,Korean Air,SEL-SYD,Korea,NE Asia,Korea,NE Asia,0,30,11474
+09-2003,I,Sydney,Shanghai,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,1,5,1505
+09-2003,I,Sydney,Shanghai,Air China,BJS-SHA-SYD,China,NE Asia,China,NE Asia,0,12,3612
+09-2003,I,Sydney,Shanghai,China Eastern Airlines,BJS-SHA-SYD,China,NE Asia,China,NE Asia,0,17,4879
+09-2003,I,Sydney,Singapore,Australian Airlines,SIN-DPS-SYD,Singapore,SE Asia,Singapore,SE Asia,1,13,3523
+09-2003,I,Sydney,Singapore,British Airways,LON-SIN-SYD,Singapore,SE Asia,UK,Europe,0,30,10530
+09-2003,I,Sydney,Singapore,Emirates,DXB-SIN-SYD-AKL,Singapore,SE Asia,United Arab Emirates,Middle East,0,30,11400
+09-2003,I,Sydney,Singapore,Qantas Airways,FRA-SIN-SYD,Singapore,SE Asia,Germany,Europe,0,30,12960
+09-2003,I,Sydney,Singapore,Qantas Airways,LON-SIN-MEL-SYD,Singapore,SE Asia,UK,Europe,1,16,6231
+09-2003,I,Sydney,Singapore,Qantas Airways,LON-SIN-SYD,Singapore,SE Asia,UK,Europe,0,23,9062
+09-2003,I,Sydney,Singapore,Qantas Airways,SIN-BNE-SYD,Singapore,SE Asia,Singapore,SE Asia,1,8,2596
+09-2003,I,Sydney,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,2,9,2038
+09-2003,I,Sydney,Singapore,Qantas Airways,SIN-PER-SYD,Singapore,SE Asia,Singapore,SE Asia,1,2,659
+09-2003,I,Sydney,Singapore,Singapore Airlines,SIN-SYD,Singapore,SE Asia,Singapore,SE Asia,0,90,32379
+09-2003,I,Sydney,Suva,Fiji Airways,SUV-SYD,Fiji,Islands,Fiji,Islands,0,9,1386
+09-2003,I,Sydney,Taipei,China Airlines,TPE-SYD,Taiwan,NE Asia,Taiwan,NE Asia,0,17,4692
+09-2003,I,Sydney,Taipei,Eva Air,TPE-SYD,Taiwan,NE Asia,Taiwan,NE Asia,0,9,1944
+09-2003,I,Sydney,Tokyo,Japan Airlines,TYO-SYD,Japan,NE Asia,Japan,NE Asia,0,30,12722
+09-2003,I,Sydney,Tokyo,Qantas Airways,TYO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,1,20,8646
+09-2003,I,Sydney,Tokyo,Qantas Airways,TYO-SYD,Japan,NE Asia,Japan,NE Asia,0,1,394
+09-2003,I,Sydney,Tokyo,Qantas Airways,TYO-SYD-MEL,Japan,NE Asia,Japan,NE Asia,0,29,11386
+09-2003,I,Sydney,Tongatapu,Polynesian Airlines,APW-TBU-AKL-SYD,Tonga,Islands,Western Samoa,Islands,1,4,616
+09-2003,I,Sydney,Tongatapu,Royal Tongan Airlines,TBU-AKL-SYD,Tonga,Islands,Tonga,Islands,1,9,1665
+09-2003,I,Sydney,Vancouver,Air Canada,YVR-HNL-SYD,Canada,N America,Canada,N America,1,30,8455
+09-2003,I,Sydney,Vienna,Lauda Air,VIE-KUL-SYD,Austria,Europe,Austria,Europe,1,22,7568
+09-2003,I,Sydney,Wellington,Air New Zealand,WLG-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,49,5719
+09-2003,I,Sydney,Wellington,Qantas Airways,WLG-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,60,7301
+09-2003,O,Adelaide,Denpasar,Garuda Indonesia,ADL-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,13,3809
+09-2003,O,Adelaide,Hong Kong,Cathay Pacific Airways,ADL-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2008
+09-2003,O,Adelaide,Kuala Lumpur,Malaysia Airlines,ADL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4726
+09-2003,O,Adelaide,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,1,5,1137
+09-2003,O,Adelaide,Singapore,Qantas Airways,SYD-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,1,8,1816
+09-2003,O,Adelaide,Singapore,Singapore Airlines,ADL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,12,3876
+09-2003,O,Brisbane,Auckland,Air New Zealand,BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,36,12669
+09-2003,O,Brisbane,Auckland,Freedom Air International,BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,18,2556
+09-2003,O,Brisbane,Auckland,Garuda Indonesia,DPS-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,8,2296
+09-2003,O,Brisbane,Auckland,Malaysia Airlines,KUL-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,13,5018
+09-2003,O,Brisbane,Auckland,Qantas Airways,BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,0,17,7306
+09-2003,O,Brisbane,Auckland,Qantas Airways,SYD-BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,0,13,5563
+09-2003,O,Brisbane,Auckland,Thai Airways International,BKK-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,13,3705
+09-2003,O,Brisbane,Bandar Seri Begawan,Royal Brunei Airlines,BNE-BWN,Brunei,SE Asia,Brunei,SE Asia,0,18,3564
+09-2003,O,Brisbane,Bangkok,Thai Airways International,AKL-BNE-BKK,Thailand,SE Asia,Thailand,SE Asia,0,13,3705
+09-2003,O,Brisbane,Christchurch,Air New Zealand,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1088
+09-2003,O,Brisbane,Christchurch,Freedom Air International,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,29,4119
+09-2003,O,Brisbane,Christchurch,Qantas Airways,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,13,2590
+09-2003,O,Brisbane,Denpasar,Garuda Indonesia,AKL-BNE-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2296
+09-2003,O,Brisbane,Denpasar,Garuda Indonesia,BNE-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+09-2003,O,Brisbane,Dunedin,Freedom Air International,BNE-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1847
+09-2003,O,Brisbane,Hamilton,Freedom Air International,BNE-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,20,2840
+09-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,BNE-CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+09-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,4,1244
+09-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,CNS-BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+09-2003,O,Brisbane,Honiara,Solomon Airlines,BNE-HIR,Solomon Islands,Islands,Solomon Islands,Islands,0,9,1224
+09-2003,O,Brisbane,Kuala Lumpur,Malaysia Airlines,AKL-BNE-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,14,5404
+09-2003,O,Brisbane,Kuala Lumpur,Malaysia Airlines,BNE-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,12,2748
+09-2003,O,Brisbane,Los Angeles,Qantas Airways,BNE-AKL-LAX,USA,N America,USA,N America,1,17,7306
+09-2003,O,Brisbane,Los Angeles,Qantas Airways,SYD-BNE-AKL-LAX,USA,N America,USA,N America,1,13,5563
+09-2003,O,Brisbane,Manila,Qantas Airways,SYD-BNE-MNL,Philippines,SE Asia,Philippines,SE Asia,0,4,908
+09-2003,O,Brisbane,Nadi,Fiji Airways,BNE-NAN,Fiji,Islands,Fiji,Islands,0,30,4478
+09-2003,O,Brisbane,Nauru,Our Airline,BNE-INU,Nauru,Islands,Nauru,Islands,0,4,440
+09-2003,O,Brisbane,Nauru,Our Airline,MEL-BNE-INU,Nauru,Islands,Nauru,Islands,0,4,440
+09-2003,O,Brisbane,Noumea,Air Caledonie,BNE-NOU,New Caledonia,Islands,New Caledonia,Islands,0,7,1027
+09-2003,O,Brisbane,Noumea,Qantas Airways,BNE-NOU,New Caledonia,Islands,New Caledonia,Islands,0,4,560
+09-2003,O,Brisbane,Osaka,Japan Airlines,BNE-SYD-OSA,Japan,NE Asia,Japan,NE Asia,1,30,14148
+09-2003,O,Brisbane,Palmerston,Freedom Air International,BNE-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,17,2414
+09-2003,O,Brisbane,Port Moresby,Air Niugini,BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,16,3680
+09-2003,O,Brisbane,Port Moresby,Air Niugini,SYD-BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,9,2070
+09-2003,O,Brisbane,Port Vila,Air Vanuatu,BNE-VLI,Vanuatu,Islands,Vanuatu,Islands,0,13,1638
+09-2003,O,Brisbane,Queenstown,Air New Zealand,BNE-ZQN,New Zealand,New Zealand,New Zealand,New Zealand,0,3,408
+09-2003,O,Brisbane,Queenstown,Qantas Airways,BNE-ZQN,New Zealand,New Zealand,New Zealand,New Zealand,0,4,506
+09-2003,O,Brisbane,Rome,Qantas Airways,BNE-SIN-ROM,Italy,Europe,Italy,Europe,1,1,422
+09-2003,O,Brisbane,Rome,Qantas Airways,SYD-BNE-SIN-ROM,Italy,Europe,Italy,Europe,1,1,422
+09-2003,O,Brisbane,Seoul,Korean Air,BNE-SEL,Korea,NE Asia,Korea,NE Asia,0,8,2094
+09-2003,O,Brisbane,Singapore,Qantas Airways,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,20,8440
+09-2003,O,Brisbane,Singapore,Qantas Airways,BNE-SIN-ROM,Singapore,SE Asia,Italy,Europe,0,1,422
+09-2003,O,Brisbane,Singapore,Qantas Airways,SYD-BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,8,2596
+09-2003,O,Brisbane,Singapore,Qantas Airways,SYD-BNE-SIN-ROM,Singapore,SE Asia,Italy,Europe,0,1,422
+09-2003,O,Brisbane,Singapore,Singapore Airlines,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,60,19380
+09-2003,O,Brisbane,Taipei,China Airlines,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,5,1380
+09-2003,O,Brisbane,Taipei,Eva Air,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,2034
+09-2003,O,Brisbane,Tokyo,Japan Airlines,BNE-TYO,Japan,NE Asia,Japan,NE Asia,0,30,12734
+09-2003,O,Brisbane,Wellington,Freedom Air International,BNE-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,25,3550
+09-2003,O,Brisbane,Wellington,Qantas Airways,BNE-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1560
+09-2003,O,Cairns,Auckland,Air New Zealand,CNS-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,9,3042
+09-2003,O,Cairns,Fukuoka,Australian Airlines,CNS-FUK,Japan,NE Asia,Japan,NE Asia,0,13,3481
+09-2003,O,Cairns,Guam,Continental Micronesia,CNS-GUM,Guam,Islands,Guam,Islands,0,13,2002
+09-2003,O,Cairns,Guam,Qantas Airways,SYD-CNS-GUM-TYO,Guam,Islands,Japan,NE Asia,0,1,450
+09-2003,O,Cairns,Hong Kong,Australian Airlines,CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2168
+09-2003,O,Cairns,Hong Kong,Cathay Pacific Airways,BNE-CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+09-2003,O,Cairns,Hong Kong,Cathay Pacific Airways,CNS-BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+09-2003,O,Cairns,Kota Kinabalu,Australian Airlines,CNS-SIN-BKI,Malaysia,SE Asia,Malaysia,SE Asia,1,4,1084
+09-2003,O,Cairns,Nagoya,Australian Airlines,CNS-NGO,Japan,NE Asia,Japan,NE Asia,0,4,1084
+09-2003,O,Cairns,Nagoya,Australian Airlines,SYD-CNS-NGO,Japan,NE Asia,Japan,NE Asia,0,26,7046
+09-2003,O,Cairns,Osaka,Australian Airlines,CNS-OSA,Japan,NE Asia,Japan,NE Asia,0,2,458
+09-2003,O,Cairns,Osaka,Australian Airlines,OOL-CNS-OSA,Japan,NE Asia,Japan,NE Asia,0,18,4878
+09-2003,O,Cairns,Port Moresby,Air Niugini,CNS-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,47,3398
+09-2003,O,Cairns,Singapore,Australian Airlines,CNS-SIN,Singapore,SE Asia,Singapore,SE Asia,0,9,2439
+09-2003,O,Cairns,Singapore,Australian Airlines,CNS-SIN-BKI,Singapore,SE Asia,Malaysia,SE Asia,0,4,1084
+09-2003,O,Cairns,Tokyo,Qantas Airways,CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,9,3910
+09-2003,O,Cairns,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,1,432
+09-2003,O,Cairns,Tokyo,Qantas Airways,SYD-CNS-GUM-TYO,Japan,NE Asia,Japan,NE Asia,1,1,450
+09-2003,O,Cairns,Tokyo,Qantas Airways,SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,20,8636
+09-2003,O,Christmas Island,Jakarta,Merpati Nusantara Airlines,XCH-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,4,400
+09-2003,O,Darwin,Bandar Seri Begawan,Royal Brunei Airlines,DRW-BWN,Brunei,SE Asia,Brunei,SE Asia,0,8,1204
+09-2003,O,Darwin,Denpasar,Garuda Indonesia,DRW-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1072
+09-2003,O,Darwin,Denpasar,Qantas Airways,DRW-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1090
+09-2003,O,Darwin,Hong Kong,Qantas Airways,MEL-SYD-DRW-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,2,454
+09-2003,O,Darwin,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,5,1137
+09-2003,O,Darwin,Singapore,Qantas Airways,SYD-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,8,1816
+09-2003,O,Gold Coast,Auckland,Freedom Air International,OOL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,4254
+09-2003,O,Gold Coast,Christchurch,Freedom Air International,OOL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1846
+09-2003,O,Gold Coast,Dunedin,Freedom Air International,OOL-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1136
+09-2003,O,Gold Coast,Hamilton,Freedom Air International,OOL-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1136
+09-2003,O,Gold Coast,Osaka,Australian Airlines,OOL-CNS-OSA,Japan,NE Asia,Japan,NE Asia,1,18,4878
+09-2003,O,Melbourne,Auckland,Air New Zealand,MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,59,12692
+09-2003,O,Melbourne,Auckland,Emirates,DXB-SIN-MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,29,10635
+09-2003,O,Melbourne,Auckland,Qantas Airways,MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,59,13728
+09-2003,O,Melbourne,Auckland,Qantas Airways,MEL-CHC-AKL,New Zealand,New Zealand,New Zealand,New Zealand,1,1,229
+09-2003,O,Melbourne,Bangkok,Qantas Airways,SYD-MEL-BKK-LON,Thailand,SE Asia,UK,Europe,0,1,394
+09-2003,O,Melbourne,Bangkok,Thai Airways International,MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,0,20,5700
+09-2003,O,Melbourne,Bangkok,Thai Airways International,SYD-MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,0,29,8458
+09-2003,O,Melbourne,Beijing,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,2,9,2709
+09-2003,O,Melbourne,Beijing,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,2,5,1505
+09-2003,O,Melbourne,Chicago,United Airlines,MEL-SYD-LAX-CHI,USA,N America,USA,N America,2,30,10410
+09-2003,O,Melbourne,Christchurch,Air New Zealand,MEL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,30,3596
+09-2003,O,Melbourne,Christchurch,Qantas Airways,MEL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,26,4160
+09-2003,O,Melbourne,Christchurch,Qantas Airways,MEL-CHC-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,1,229
+09-2003,O,Melbourne,Denpasar,Air Paradise International,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2403
+09-2003,O,Melbourne,Denpasar,Air Paradise International,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2038
+09-2003,O,Melbourne,Denpasar,Australian Airlines,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,4,1084
+09-2003,O,Melbourne,Denpasar,Garuda Indonesia,ADL-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,13,3809
+09-2003,O,Melbourne,Denpasar,Garuda Indonesia,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,5,1465
+09-2003,O,Melbourne,Dubai,Emirates,AKL-MEL-SIN-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,30,11015
+09-2003,O,Melbourne,Dunedin,Freedom Air International,MEL-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,4,568
+09-2003,O,Melbourne,Frankfurt,Qantas Airways,SYD-MEL-SIN-FRA,Germany,Europe,Germany,Europe,1,1,432
+09-2003,O,Melbourne,Guangzhou,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,1,9,2709
+09-2003,O,Melbourne,Guangzhou,China Southern Airlines,MEL-SYD-CAN,China,NE Asia,China,NE Asia,1,9,2583
+09-2003,O,Melbourne,Hamilton,Freedom Air International,MEL-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1278
+09-2003,O,Melbourne,Hanoi,Vietnam Airlines,MEL-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,1,9,2310
+09-2003,O,Melbourne,Ho Chi Minh City,Vietnam Airlines,MEL-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,0,9,2310
+09-2003,O,Melbourne,Hong Kong,Cathay Pacific Airways,ADL-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2008
+09-2003,O,Melbourne,Hong Kong,Cathay Pacific Airways,MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,30,7522
+09-2003,O,Melbourne,Hong Kong,Qantas Airways,MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,12,2724
+09-2003,O,Melbourne,Hong Kong,Qantas Airways,MEL-SYD-DRW-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,2,2,454
+09-2003,O,Melbourne,Hong Kong,Qantas Airways,MEL-SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,14,3178
+09-2003,O,Melbourne,Hong Kong,Qantas Airways,SYD-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,7,1754
+09-2003,O,Melbourne,Honolulu,Qantas Airways,MEL-SYD-HNL,USA,N America,USA,N America,1,10,2437
+09-2003,O,Melbourne,Honolulu,Qantas Airways,MEL-SYD-NAN-HNL,USA,N America,USA,N America,2,1,227
+09-2003,O,Melbourne,Kuala Lumpur,Lauda Air,MEL-KUL-VIE,Malaysia,SE Asia,Austria,Europe,0,8,2752
+09-2003,O,Melbourne,Kuala Lumpur,Malaysia Airlines,MEL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,43,11954
+09-2003,O,Melbourne,Kuala Lumpur,Malaysia Airlines,SYD-MEL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4726
+09-2003,O,Melbourne,London,British Airways,MEL-SIN-LON,UK,Europe,UK,Europe,1,27,9477
+09-2003,O,Melbourne,London,Qantas Airways,MEL-SIN-LON,UK,Europe,UK,Europe,1,30,11819
+09-2003,O,Melbourne,London,Qantas Airways,SYD-MEL-BKK-LON,UK,Europe,UK,Europe,1,1,394
+09-2003,O,Melbourne,Los Angeles,Qantas Airways,MEL-LAX,USA,N America,USA,N America,0,30,10740
+09-2003,O,Melbourne,Los Angeles,United Airlines,MEL-SYD-LAX-CHI,USA,N America,USA,N America,1,30,10410
+09-2003,O,Melbourne,Manila,Philippine Airlines,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,1,12,3624
+09-2003,O,Melbourne,Manila,Qantas Airways,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,1,1,229
+09-2003,O,Melbourne,Mauritius,Air Mauritius,MEL-PER-MRU,Mauritius,Africa,Mauritius,Africa,1,5,1470
+09-2003,O,Melbourne,Nadi,Fiji Airways,MEL-NAN,Fiji,Islands,Fiji,Islands,0,17,5056
+09-2003,O,Melbourne,Nadi,Qantas Airways,MEL-SYD-NAN-HNL,Fiji,Islands,USA,N America,1,1,227
+09-2003,O,Melbourne,Nauru,Our Airline,MEL-BNE-INU,Nauru,Islands,Nauru,Islands,1,4,440
+09-2003,O,Melbourne,Palmerston,Freedom Air International,MEL-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,3,426
+09-2003,O,Melbourne,Shanghai,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,5,1505
+09-2003,O,Melbourne,Singapore,British Airways,MEL-SIN-LON,Singapore,SE Asia,UK,Europe,0,27,9477
+09-2003,O,Melbourne,Singapore,Emirates,AKL-MEL-SIN-DXB,Singapore,SE Asia,United Arab Emirates,Middle East,0,30,11015
+09-2003,O,Melbourne,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,2,5,1137
+09-2003,O,Melbourne,Singapore,Qantas Airways,MEL-SIN-LON,Singapore,SE Asia,UK,Europe,0,30,11819
+09-2003,O,Melbourne,Singapore,Qantas Airways,SYD-MEL-SIN-FRA,Singapore,SE Asia,Germany,Europe,0,1,432
+09-2003,O,Melbourne,Singapore,Singapore Airlines,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,60,21242
+09-2003,O,Melbourne,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,2,1,394
+09-2003,O,Melbourne,Tokyo,Qantas Airways,MEL-SYD-TYO,Japan,NE Asia,Japan,NE Asia,1,28,10545
+09-2003,O,Melbourne,Vienna,Lauda Air,MEL-KUL-VIE,Austria,Europe,Austria,Europe,1,8,2752
+09-2003,O,Melbourne,Wellington,Air New Zealand,MEL-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,30,3552
+09-2003,O,Melbourne,Wellington,Qantas Airways,MEL-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,21,2520
+09-2003,O,Norfolk Island,Auckland,Air New Zealand,NLK-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,8,912
+09-2003,O,Perth,Auckland,Air New Zealand,PER-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,17,3926
+09-2003,O,Perth,Bandar Seri Begawan,Royal Brunei Airlines,PER-BWN,Brunei,SE Asia,Brunei,SE Asia,0,12,2376
+09-2003,O,Perth,Bangkok,Thai Airways International,PER-BKK,Thailand,SE Asia,Thailand,SE Asia,0,8,2440
+09-2003,O,Perth,Bangkok,Thai Airways International,PER-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,1,8,2440
+09-2003,O,Perth,Denpasar,Air Paradise International,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,21,3843
+09-2003,O,Perth,Denpasar,Garuda Indonesia,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,30,4027
+09-2003,O,Perth,Denpasar,Qantas Airways,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,1182
+09-2003,O,Perth,Dubai,Emirates,PER-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,30,9000
+09-2003,O,Perth,Hong Kong,Cathay Pacific Airways,PER-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,4043
+09-2003,O,Perth,Jakarta,Qantas Airways,PER-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,7,1588
+09-2003,O,Perth,Jakarta,Qantas Airways,PER-JKT-SIN,Indonesia,SE Asia,Singapore,SE Asia,0,3,687
+09-2003,O,Perth,Johannesburg,South African Airways,PER-JNB,South Africa,Africa,South Africa,Africa,0,21,6150
+09-2003,O,Perth,Kuala Lumpur,Malaysia Airlines,PER-KCH-KUL,Malaysia,SE Asia,Malaysia,SE Asia,1,9,2646
+09-2003,O,Perth,Kuala Lumpur,Malaysia Airlines,PER-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,38,10692
+09-2003,O,Perth,Kuching,Malaysia Airlines,PER-KCH-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,9,2646
+09-2003,O,Perth,Mauritius,Air Mauritius,MEL-PER-MRU,Mauritius,Africa,Mauritius,Africa,0,5,1470
+09-2003,O,Perth,Paris,Qantas Airways,PER-SIN-PAR,France,Europe,France,Europe,1,9,3888
+09-2003,O,Perth,Paris,Qantas Airways,SYD-PER-SIN-PAR,France,Europe,France,Europe,1,1,432
+09-2003,O,Perth,Phuket,Thai Airways International,PER-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,0,8,2440
+09-2003,O,Perth,Singapore,Qantas Airways,PER-JKT-SIN,Singapore,SE Asia,Singapore,SE Asia,1,3,687
+09-2003,O,Perth,Singapore,Qantas Airways,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,46,12135
+09-2003,O,Perth,Singapore,Qantas Airways,PER-SIN-PAR,Singapore,SE Asia,France,Europe,0,9,3888
+09-2003,O,Perth,Singapore,Qantas Airways,SYD-PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,1,227
+09-2003,O,Perth,Singapore,Qantas Airways,SYD-PER-SIN-PAR,Singapore,SE Asia,France,Europe,0,1,432
+09-2003,O,Perth,Singapore,Singapore Airlines,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,60,19398
+09-2003,O,Perth,Tokyo,Qantas Airways,PER-TYO,Japan,NE Asia,Japan,NE Asia,0,13,2951
+09-2003,O,Sydney,Apia,Polynesian Airlines,SYD-AKL-APW,Western Samoa,Islands,Western Samoa,Islands,1,4,616
+09-2003,O,Sydney,Apia,Polynesian Airlines,SYD-TBU-APW,Western Samoa,Islands,Western Samoa,Islands,1,4,616
+09-2003,O,Sydney,Auckland,Aerolineas Argentinas,SYD-AKL-BUE,New Zealand,New Zealand,Argentina,S America,0,8,1976
+09-2003,O,Sydney,Auckland,Air New Zealand,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,144,23971
+09-2003,O,Sydney,Auckland,Emirates,DXB-SIN-SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,11400
+09-2003,O,Sydney,Auckland,LAN Airlines,SYD-AKL-SCL,New Zealand,New Zealand,Chile,S America,0,13,3367
+09-2003,O,Sydney,Auckland,Polynesian Airlines,SYD-AKL-APW,New Zealand,New Zealand,Western Samoa,Islands,0,4,616
+09-2003,O,Sydney,Auckland,Qantas Airways,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,144,32783
+09-2003,O,Sydney,Auckland,Qantas Airways,SYD-AKL-LAX,New Zealand,New Zealand,USA,N America,0,7,1701
+09-2003,O,Sydney,Auckland,Qantas Airways,SYD-BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,1,13,5563
+09-2003,O,Sydney,Auckland,Qantas Airways,SYD-CHC-AKL,New Zealand,New Zealand,New Zealand,New Zealand,1,1,236
+09-2003,O,Sydney,Auckland,Royal Tongan Airlines,SYD-AKL-TBU,New Zealand,New Zealand,Tonga,Islands,0,5,925
+09-2003,O,Sydney,Auckland,Thai Airways International,BKK-SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,29,11745
+09-2003,O,Sydney,Bangkok,British Airways,SYD-BKK-LON,Thailand,SE Asia,UK,Europe,0,30,11630
+09-2003,O,Sydney,Bangkok,Qantas Airways,SYD-BKK-LON,Thailand,SE Asia,UK,Europe,0,29,11369
+09-2003,O,Sydney,Bangkok,Qantas Airways,SYD-MEL-BKK-LON,Thailand,SE Asia,UK,Europe,1,1,394
+09-2003,O,Sydney,Bangkok,Thai Airways International,AKL-SYD-BKK,Thailand,SE Asia,Thailand,SE Asia,0,30,12150
+09-2003,O,Sydney,Bangkok,Thai Airways International,SYD-MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,1,29,8458
+09-2003,O,Sydney,Beijing,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,1,9,2709
+09-2003,O,Sydney,Beijing,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,5,1505
+09-2003,O,Sydney,Beijing,Air China,SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,12,3612
+09-2003,O,Sydney,Beijing,China Eastern Airlines,SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,17,4879
+09-2003,O,Sydney,Buenos Aires,Aerolineas Argentinas,SYD-AKL-BUE,Argentina,S America,Argentina,S America,1,8,1976
+09-2003,O,Sydney,Chicago,United Airlines,MEL-SYD-LAX-CHI,USA,N America,USA,N America,1,30,10410
+09-2003,O,Sydney,Christchurch,Air New Zealand,SYD-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,60,6885
+09-2003,O,Sydney,Christchurch,Qantas Airways,SYD-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,89,18438
+09-2003,O,Sydney,Christchurch,Qantas Airways,SYD-CHC-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,1,236
+09-2003,O,Sydney,Christchurch,Qantas Airways,SYD-WLG-CHC,New Zealand,New Zealand,New Zealand,New Zealand,1,1,229
+09-2003,O,Sydney,Denpasar,Air Paradise International,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2403
+09-2003,O,Sydney,Denpasar,Air Paradise International,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,8,2038
+09-2003,O,Sydney,Denpasar,Australian Airlines,SYD-DPS-SIN,Indonesia,SE Asia,Singapore,SE Asia,0,13,3523
+09-2003,O,Sydney,Denpasar,Australian Airlines,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,4,1084
+09-2003,O,Sydney,Denpasar,Garuda Indonesia,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+09-2003,O,Sydney,Denpasar,Garuda Indonesia,SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,12,3516
+09-2003,O,Sydney,Dubai,Emirates,AKL-SYD-SIN-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,30,11400
+09-2003,O,Sydney,Dunedin,Freedom Air International,SYD-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,4,568
+09-2003,O,Sydney,Frankfurt,Qantas Airways,SYD-MEL-SIN-FRA,Germany,Europe,Germany,Europe,2,1,432
+09-2003,O,Sydney,Frankfurt,Qantas Airways,SYD-SIN-FRA,Germany,Europe,Germany,Europe,1,29,12526
+09-2003,O,Sydney,Guam,Qantas Airways,SYD-CNS-GUM-TYO,Guam,Islands,Japan,NE Asia,1,1,450
+09-2003,O,Sydney,Guangzhou,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,0,9,2709
+09-2003,O,Sydney,Guangzhou,China Southern Airlines,MEL-SYD-CAN,China,NE Asia,China,NE Asia,0,9,2583
+09-2003,O,Sydney,Guangzhou,China Southern Airlines,SYD-CAN,China,NE Asia,China,NE Asia,0,4,1148
+09-2003,O,Sydney,Hamilton,Freedom Air International,SYD-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,10,1420
+09-2003,O,Sydney,Hanoi,Vietnam Airlines,SYD-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,1,12,3072
+09-2003,O,Sydney,Ho Chi Minh City,Vietnam Airlines,SYD-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,0,12,3072
+09-2003,O,Sydney,Hong Kong,Cathay Pacific Airways,SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,59,16271
+09-2003,O,Sydney,Hong Kong,Qantas Airways,MEL-SYD-DRW-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,2,454
+09-2003,O,Sydney,Hong Kong,Qantas Airways,MEL-SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,14,3178
+09-2003,O,Sydney,Hong Kong,Qantas Airways,SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,29,10899
+09-2003,O,Sydney,Hong Kong,Qantas Airways,SYD-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,7,1754
+09-2003,O,Sydney,Honolulu,Air Canada,SYD-HNL-YVR,USA,N America,Canada,N America,0,30,8440
+09-2003,O,Sydney,Honolulu,Qantas Airways,MEL-SYD-HNL,USA,N America,USA,N America,0,10,2437
+09-2003,O,Sydney,Honolulu,Qantas Airways,MEL-SYD-NAN-HNL,USA,N America,USA,N America,1,1,227
+09-2003,O,Sydney,Honolulu,Qantas Airways,SYD-HNL,USA,N America,USA,N America,0,2,454
+09-2003,O,Sydney,Jakarta,Qantas Airways,SYD-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,19,4358
+09-2003,O,Sydney,Johannesburg,Qantas Airways,SYD-JNB,South Africa,Africa,South Africa,Africa,0,20,7852
+09-2003,O,Sydney,Kota Kinabalu,Australian Airlines,SYD-BKI,Malaysia,SE Asia,Malaysia,SE Asia,0,4,1084
+09-2003,O,Sydney,Kuala Lumpur,Lauda Air,SYD-KUL-VIE,Malaysia,SE Asia,Austria,Europe,0,22,7568
+09-2003,O,Sydney,Kuala Lumpur,Malaysia Airlines,SYD-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,30,11580
+09-2003,O,Sydney,Kuala Lumpur,Malaysia Airlines,SYD-MEL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,1,17,4726
+09-2003,O,Sydney,London,British Airways,SYD-BKK-LON,UK,Europe,UK,Europe,1,30,11630
+09-2003,O,Sydney,London,British Airways,SYD-SIN-LON,UK,Europe,UK,Europe,1,30,10530
+09-2003,O,Sydney,London,Qantas Airways,SYD-BKK-LON,UK,Europe,UK,Europe,1,29,11357
+09-2003,O,Sydney,London,Qantas Airways,SYD-MEL-BKK-LON,UK,Europe,UK,Europe,2,1,394
+09-2003,O,Sydney,London,Qantas Airways,SYD-SIN-LON,UK,Europe,UK,Europe,1,18,7049
+09-2003,O,Sydney,London,Qantas Airways,SYD-SIN-ROM-LON,UK,Europe,UK,Europe,2,1,394
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-AKL-LAX,USA,N America,USA,N America,1,7,1701
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-BNE-AKL-LAX,USA,N America,USA,N America,2,13,5563
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-LAX,USA,N America,USA,N America,0,52,18759
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-LAX-NYC,USA,N America,USA,N America,0,11,3974
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-NAN-LAX,USA,N America,USA,N America,1,2,752
+09-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-NAN-LAX-NYC,USA,N America,USA,N America,1,1,358
+09-2003,O,Sydney,Los Angeles,United Airlines,MEL-SYD-LAX-CHI,USA,N America,USA,N America,0,30,10410
+09-2003,O,Sydney,Manila,Philippine Airlines,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,12,3624
+09-2003,O,Sydney,Manila,Qantas Airways,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,1,229
+09-2003,O,Sydney,Manila,Qantas Airways,SYD-BNE-MNL,Philippines,SE Asia,Philippines,SE Asia,1,4,908
+09-2003,O,Sydney,Manila,Qantas Airways,SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,12,2762
+09-2003,O,Sydney,Nadi,Fiji Airways,SYD-NAN,Fiji,Islands,Fiji,Islands,0,30,13740
+09-2003,O,Sydney,Nadi,Qantas Airways,MEL-SYD-NAN-HNL,Fiji,Islands,USA,N America,0,1,227
+09-2003,O,Sydney,Nadi,Qantas Airways,SYD-NAN-LAX,Fiji,Islands,USA,N America,0,2,752
+09-2003,O,Sydney,Nadi,Qantas Airways,SYD-NAN-LAX-NYC,Fiji,Islands,USA,N America,0,1,358
+09-2003,O,Sydney,Nagoya,Australian Airlines,SYD-CNS-NGO,Japan,NE Asia,Japan,NE Asia,1,26,7040
+09-2003,O,Sydney,New York,Qantas Airways,SYD-LAX-NYC,USA,N America,USA,N America,1,11,3974
+09-2003,O,Sydney,New York,Qantas Airways,SYD-NAN-LAX-NYC,USA,N America,USA,N America,2,1,358
+09-2003,O,Sydney,New York,United Airlines,SYD-SFO-NYC,USA,N America,USA,N America,1,30,10410
+09-2003,O,Sydney,Noumea,Air Caledonie,SYD-NOU,New Caledonia,Islands,New Caledonia,Islands,0,17,3157
+09-2003,O,Sydney,Noumea,Qantas Airways,SYD-NOU,New Caledonia,Islands,New Caledonia,Islands,0,12,2007
+09-2003,O,Sydney,Osaka,Japan Airlines,BNE-SYD-OSA,Japan,NE Asia,Japan,NE Asia,0,30,14148
+09-2003,O,Sydney,Palmerston,Freedom Air International,SYD-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1136
+09-2003,O,Sydney,Paris,Qantas Airways,SYD-PER-SIN-PAR,France,Europe,France,Europe,2,1,432
+09-2003,O,Sydney,Port Moresby,Air Niugini,SYD-BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,1,9,2070
+09-2003,O,Sydney,Port Vila,Air Vanuatu,SYD-VLI,Vanuatu,Islands,Vanuatu,Islands,0,23,2878
+09-2003,O,Sydney,Queenstown,Air New Zealand,SYD-ZQN,New Zealand,New Zealand,New Zealand,New Zealand,0,8,934
+09-2003,O,Sydney,Queenstown,Qantas Airways,SYD-ZQN,New Zealand,New Zealand,New Zealand,New Zealand,0,4,520
+09-2003,O,Sydney,Rome,Qantas Airways,SYD-BNE-SIN-ROM,Italy,Europe,Italy,Europe,2,1,422
+09-2003,O,Sydney,Rome,Qantas Airways,SYD-SIN-ROM-LON,Italy,Europe,UK,Europe,1,1,394
+09-2003,O,Sydney,San Francisco,United Airlines,SYD-SFO-NYC,USA,N America,USA,N America,0,30,10410
+09-2003,O,Sydney,Santiago,LAN Airlines,SYD-AKL-SCL,Chile,S America,Chile,S America,1,13,3367
+09-2003,O,Sydney,Seoul,Asiana Airlines,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,30,9300
+09-2003,O,Sydney,Seoul,Korean Air,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,30,11474
+09-2003,O,Sydney,Shanghai,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,0,5,1505
+09-2003,O,Sydney,Shanghai,Air China,SYD-SHA-BJS,China,NE Asia,China,NE Asia,0,12,3612
+09-2003,O,Sydney,Shanghai,China Eastern Airlines,SYD-SHA-BJS,China,NE Asia,China,NE Asia,0,17,4879
+09-2003,O,Sydney,Singapore,Australian Airlines,SYD-DPS-SIN,Singapore,SE Asia,Singapore,SE Asia,1,13,3523
+09-2003,O,Sydney,Singapore,British Airways,SYD-SIN-LON,Singapore,SE Asia,UK,Europe,0,30,10530
+09-2003,O,Sydney,Singapore,Emirates,AKL-SYD-SIN-DXB,Singapore,SE Asia,United Arab Emirates,Middle East,0,30,11400
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,2,8,1816
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,1,8,2596
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-BNE-SIN-ROM,Singapore,SE Asia,Italy,Europe,1,1,422
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-MEL-SIN-FRA,Singapore,SE Asia,Germany,Europe,1,1,432
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-PER-SIN,Singapore,SE Asia,Singapore,SE Asia,1,1,227
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-PER-SIN-PAR,Singapore,SE Asia,France,Europe,1,1,432
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-SIN-FRA,Singapore,SE Asia,Germany,Europe,0,29,12527
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-SIN-LON,Singapore,SE Asia,UK,Europe,0,18,7049
+09-2003,O,Sydney,Singapore,Qantas Airways,SYD-SIN-ROM-LON,Singapore,SE Asia,UK,Europe,0,1,394
+09-2003,O,Sydney,Singapore,Singapore Airlines,SYD-SIN,Singapore,SE Asia,Singapore,SE Asia,0,90,32379
+09-2003,O,Sydney,Suva,Fiji Airways,SYD-SUV,Fiji,Islands,Fiji,Islands,0,9,1386
+09-2003,O,Sydney,Taipei,China Airlines,SYD-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,17,4692
+09-2003,O,Sydney,Taipei,Eva Air,SYD-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,1944
+09-2003,O,Sydney,Tokyo,Japan Airlines,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,30,12722
+09-2003,O,Sydney,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,1,1,432
+09-2003,O,Sydney,Tokyo,Qantas Airways,MEL-SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,28,10964
+09-2003,O,Sydney,Tokyo,Qantas Airways,SYD-CNS-GUM-TYO,Japan,NE Asia,Japan,NE Asia,2,1,450
+09-2003,O,Sydney,Tokyo,Qantas Airways,SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,1,20,8636
+09-2003,O,Sydney,Tokyo,Qantas Airways,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,1,394
+09-2003,O,Sydney,Tongatapu,Polynesian Airlines,SYD-TBU-APW,Tonga,Islands,Western Samoa,Islands,0,4,616
+09-2003,O,Sydney,Tongatapu,Royal Tongan Airlines,SYD-AKL-TBU,Tonga,Islands,Tonga,Islands,1,5,925
+09-2003,O,Sydney,Tongatapu,Royal Tongan Airlines,SYD-TBU,Tonga,Islands,Tonga,Islands,0,4,740
+09-2003,O,Sydney,Vancouver,Air Canada,SYD-HNL-YVR,Canada,N America,Canada,N America,1,30,8440
+09-2003,O,Sydney,Vienna,Lauda Air,SYD-KUL-VIE,Austria,Europe,Austria,Europe,1,22,7568
+09-2003,O,Sydney,Wellington,Air New Zealand,SYD-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,49,5709
+09-2003,O,Sydney,Wellington,Qantas Airways,SYD-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,60,7299
+09-2003,O,Sydney,Wellington,Qantas Airways,SYD-WLG-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,1,229
+12-2003,I,Adelaide,Denpasar,Garuda Indonesia,DPS-ADL-MEL,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2637
+12-2003,I,Adelaide,Hong Kong,Cathay Pacific Airways,HKG-ADL-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,9,2259
+12-2003,I,Adelaide,Kuala Lumpur,Malaysia Airlines,KUL-ADL,Malaysia,SE Asia,Malaysia,SE Asia,0,18,4968
+12-2003,I,Adelaide,Singapore,Qantas Airways,SIN-DRW-ADL,Singapore,SE Asia,Singapore,SE Asia,1,9,2043
+12-2003,I,Adelaide,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,1,4,908
+12-2003,I,Adelaide,Singapore,Singapore Airlines,SIN-ADL,Singapore,SE Asia,Singapore,SE Asia,0,18,5814
+12-2003,I,Brisbane,Auckland,Air New Zealand,AKL-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,32,12140
+12-2003,I,Brisbane,Auckland,Emirates,AKL-BNE-SIN-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,31,11412
+12-2003,I,Brisbane,Auckland,Freedom Air International,AKL-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,16,1990
+12-2003,I,Brisbane,Auckland,Garuda Indonesia,AKL-BNE-DPS,New Zealand,New Zealand,New Zealand,New Zealand,0,9,2637
+12-2003,I,Brisbane,Auckland,Malaysia Airlines,AKL-BNE-KUL,New Zealand,New Zealand,New Zealand,New Zealand,0,14,5362
+12-2003,I,Brisbane,Auckland,Qantas Airways,LAX-AKL-BNE,New Zealand,New Zealand,USA,N America,0,18,7737
+12-2003,I,Brisbane,Auckland,Qantas Airways,LAX-AKL-BNE-SYD,New Zealand,New Zealand,USA,N America,0,13,5568
+12-2003,I,Brisbane,Auckland,Royal Brunei Airlines,AKL-BNE-BWN,New Zealand,New Zealand,New Zealand,New Zealand,0,17,3366
+12-2003,I,Brisbane,Auckland,Thai Airways International,AKL-BNE-BKK,New Zealand,New Zealand,New Zealand,New Zealand,0,14,3990
+12-2003,I,Brisbane,Bandar Seri Begawan,Royal Brunei Airlines,BWN-BNE-AKL,Brunei,SE Asia,Brunei,SE Asia,0,18,3564
+12-2003,I,Brisbane,Bangkok,Thai Airways International,BKK-BNE-AKL,Thailand,SE Asia,Thailand,SE Asia,0,14,3990
+12-2003,I,Brisbane,Christchurch,Air New Zealand,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,15,2022
+12-2003,I,Brisbane,Christchurch,Freedom Air International,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,22,2977
+12-2003,I,Brisbane,Christchurch,Qantas Airways,CHC-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,20,2959
+12-2003,I,Brisbane,Denpasar,Garuda Indonesia,DPS-BNE,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+12-2003,I,Brisbane,Denpasar,Garuda Indonesia,DPS-BNE-AKL,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2637
+12-2003,I,Brisbane,Dubai,Emirates,DXB-SIN-BNE-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,31,11412
+12-2003,I,Brisbane,Dunedin,Freedom Air International,DUD-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,12,1637
+12-2003,I,Brisbane,Hamilton,Freedom Air International,HLZ-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,19,2439
+12-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,4,1244
+12-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-BNE-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,9,2799
+12-2003,I,Brisbane,Hong Kong,Cathay Pacific Airways,HKG-CNS-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+12-2003,I,Brisbane,Hong Kong,Qantas Airways,HKG-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,14,3182
+12-2003,I,Brisbane,Hong Kong,Qantas Airways,HKG-BNE-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,1,394
+12-2003,I,Brisbane,Honiara,Our Airline,INU-HIR-BNE,Solomon Islands,Islands,Nauru,Islands,0,1,110
+12-2003,I,Brisbane,Honiara,Our Airline,INU-HIR-BNE-MEL,Solomon Islands,Islands,Nauru,Islands,0,1,110
+12-2003,I,Brisbane,Honiara,Solomon Airlines,HIR-BNE,Solomon Islands,Islands,Solomon Islands,Islands,0,11,1496
+12-2003,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE,Malaysia,SE Asia,Malaysia,SE Asia,0,12,2724
+12-2003,I,Brisbane,Kuala Lumpur,Malaysia Airlines,KUL-BNE-AKL,Malaysia,SE Asia,Malaysia,SE Asia,0,14,5362
+12-2003,I,Brisbane,Los Angeles,Qantas Airways,LAX-AKL-BNE,USA,N America,USA,N America,1,18,7737
+12-2003,I,Brisbane,Los Angeles,Qantas Airways,LAX-AKL-BNE-SYD,USA,N America,USA,N America,1,13,5568
+12-2003,I,Brisbane,Los Angeles,Qantas Airways,LAX-BNE-SYD,USA,N America,USA,N America,0,1,358
+12-2003,I,Brisbane,Los Angeles,Qantas Airways,NYC-LAX-BNE-SYD,USA,N America,USA,N America,0,1,358
+12-2003,I,Brisbane,Manila,Qantas Airways,MNL-BNE-SYD,Philippines,SE Asia,Philippines,SE Asia,0,5,2194
+12-2003,I,Brisbane,Nadi,Fiji Airways,NAN-BNE,Fiji,Islands,Fiji,Islands,0,31,5138
+12-2003,I,Brisbane,Nauru,Our Airline,INU-BNE,Nauru,Islands,Nauru,Islands,0,4,440
+12-2003,I,Brisbane,Nauru,Our Airline,INU-BNE-MEL,Nauru,Islands,Nauru,Islands,0,3,330
+12-2003,I,Brisbane,Nauru,Our Airline,INU-HIR-BNE,Nauru,Islands,Nauru,Islands,1,1,110
+12-2003,I,Brisbane,Nauru,Our Airline,INU-HIR-BNE-MEL,Nauru,Islands,Nauru,Islands,1,1,110
+12-2003,I,Brisbane,New York,Qantas Airways,NYC-LAX-BNE-SYD,USA,N America,USA,N America,1,1,358
+12-2003,I,Brisbane,Noumea,Air Caledonie,NOU-BNE,New Caledonia,Islands,New Caledonia,Islands,0,8,1153
+12-2003,I,Brisbane,Noumea,Qantas Airways,NOU-BNE,New Caledonia,Islands,New Caledonia,Islands,0,4,578
+12-2003,I,Brisbane,Osaka,Japan Airlines,OSA-BNE,Japan,NE Asia,Japan,NE Asia,0,1,414
+12-2003,I,Brisbane,Osaka,Japan Airlines,OSA-BNE-SYD,Japan,NE Asia,Japan,NE Asia,0,31,14739
+12-2003,I,Brisbane,Palmerston,Freedom Air International,PMR-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1744
+12-2003,I,Brisbane,Port Moresby,Air Niugini,POM-BNE,Papua New Guinea,Islands,Papua New Guinea,Islands,0,15,3450
+12-2003,I,Brisbane,Port Moresby,Air Niugini,POM-BNE-SYD,Papua New Guinea,Islands,Papua New Guinea,Islands,0,7,1610
+12-2003,I,Brisbane,Port Vila,Air Vanuatu,VLI-BNE,Vanuatu,Islands,Vanuatu,Islands,0,13,1651
+12-2003,I,Brisbane,Seoul,Korean Air,SEL-BNE,Korea,NE Asia,Korea,NE Asia,0,10,3830
+12-2003,I,Brisbane,Singapore,Emirates,DXB-SIN-BNE-AKL,Singapore,SE Asia,United Arab Emirates,Middle East,0,31,11412
+12-2003,I,Brisbane,Singapore,Qantas Airways,SIN-BNE,Singapore,SE Asia,Singapore,SE Asia,0,22,9316
+12-2003,I,Brisbane,Singapore,Qantas Airways,SIN-BNE-SYD,Singapore,SE Asia,Singapore,SE Asia,0,9,3700
+12-2003,I,Brisbane,Singapore,Singapore Airlines,SIN-BNE,Singapore,SE Asia,Singapore,SE Asia,0,67,21641
+12-2003,I,Brisbane,Taipei,China Airlines,TPE-BNE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,2385
+12-2003,I,Brisbane,Taipei,Eva Air,TPE-BNE,Taiwan,NE Asia,Taiwan,NE Asia,0,13,2938
+12-2003,I,Brisbane,Tokyo,Japan Airlines,TYO-BNE,Japan,NE Asia,Japan,NE Asia,0,31,13345
+12-2003,I,Brisbane,Tokyo,Qantas Airways,TYO-CNS-BNE,Japan,NE Asia,Japan,NE Asia,1,31,7097
+12-2003,I,Brisbane,Wellington,Freedom Air International,WLG-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,25,3272
+12-2003,I,Brisbane,Wellington,Qantas Airways,WLG-BNE,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1560
+12-2003,I,Cairns,Auckland,Air New Zealand,AKL-CNS,New Zealand,New Zealand,New Zealand,New Zealand,0,9,2070
+12-2003,I,Cairns,Fukuoka,Australian Airlines,FUK-CNS,Japan,NE Asia,Japan,NE Asia,0,13,3395
+12-2003,I,Cairns,Guam,Continental Micronesia,GUM-CNS,Guam,Islands,Guam,Islands,0,13,2002
+12-2003,I,Cairns,Hong Kong,Australian Airlines,HKG-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,3478
+12-2003,I,Cairns,Hong Kong,Cathay Pacific Airways,HKG-BNE-CNS,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,9,2799
+12-2003,I,Cairns,Hong Kong,Cathay Pacific Airways,HKG-CNS-BNE,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+12-2003,I,Cairns,Kota Kinabalu,Australian Airlines,BKI-SIN-CNS,Malaysia,SE Asia,Malaysia,SE Asia,1,7,1824
+12-2003,I,Cairns,Nagoya,Australian Airlines,NGO-CNS,Japan,NE Asia,Japan,NE Asia,0,7,1894
+12-2003,I,Cairns,Nagoya,Australian Airlines,NGO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,0,24,6498
+12-2003,I,Cairns,Osaka,Australian Airlines,OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,0,31,8399
+12-2003,I,Cairns,Port Moresby,Air Niugini,POM-CNS,Papua New Guinea,Islands,Papua New Guinea,Islands,0,45,3318
+12-2003,I,Cairns,Singapore,Australian Airlines,BKI-SIN-CNS,Singapore,SE Asia,Malaysia,SE Asia,0,7,1895
+12-2003,I,Cairns,Singapore,Australian Airlines,SIN-CNS,Singapore,SE Asia,Singapore,SE Asia,0,5,1352
+12-2003,I,Cairns,Tokyo,Qantas Airways,TYO-CNS,Japan,NE Asia,Japan,NE Asia,0,1,229
+12-2003,I,Cairns,Tokyo,Qantas Airways,TYO-CNS-BNE,Japan,NE Asia,Japan,NE Asia,0,31,7097
+12-2003,I,Cairns,Tokyo,Qantas Airways,TYO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,0,31,7096
+12-2003,I,Christmas Island,Jakarta,Merpati Nusantara Airlines,JKT-XCH,Indonesia,SE Asia,Indonesia,SE Asia,0,4,400
+12-2003,I,Darwin,Bandar Seri Begawan,Royal Brunei Airlines,BWN-DRW,Brunei,SE Asia,Brunei,SE Asia,0,15,1978
+12-2003,I,Darwin,Denpasar,Garuda Indonesia,DPS-DRW,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1072
+12-2003,I,Darwin,Denpasar,Qantas Airways,DPS-DRW,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1144
+12-2003,I,Darwin,Singapore,Qantas Airways,SIN-DRW-ADL,Singapore,SE Asia,Singapore,SE Asia,0,9,2045
+12-2003,I,Darwin,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,0,4,908
+12-2003,I,Gold Coast,Auckland,Freedom Air International,AKL-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,26,3410
+12-2003,I,Gold Coast,Christchurch,Freedom Air International,CHC-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1278
+12-2003,I,Gold Coast,Dunedin,Freedom Air International,DUD-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,1,136
+12-2003,I,Gold Coast,Hamilton,Freedom Air International,HLZ-OOL,New Zealand,New Zealand,New Zealand,New Zealand,0,6,816
+12-2003,I,Gold Coast,Osaka,Australian Airlines,OSA-CNS-OOL,Japan,NE Asia,Japan,NE Asia,1,31,8353
+12-2003,I,Melbourne,Auckland,Air New Zealand,AKL-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,81,15126
+12-2003,I,Melbourne,Auckland,Emirates,AKL-MEL-SIN-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,31,11703
+12-2003,I,Melbourne,Auckland,Qantas Airways,AKL-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,62,14541
+12-2003,I,Melbourne,Bangkok,Qantas Airways,LON-BKK-SYD-MEL,Thailand,SE Asia,UK,Europe,1,7,2692
+12-2003,I,Melbourne,Bangkok,Thai Airways International,BKK-MEL,Thailand,SE Asia,Thailand,SE Asia,0,22,6270
+12-2003,I,Melbourne,Bangkok,Thai Airways International,BKK-SYD-MEL,Thailand,SE Asia,Thailand,SE Asia,1,31,12555
+12-2003,I,Melbourne,Beijing,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,3285
+12-2003,I,Melbourne,Beijing,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,1,10,3394
+12-2003,I,Melbourne,Christchurch,Air New Zealand,CHC-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,44,5330
+12-2003,I,Melbourne,Christchurch,Qantas Airways,CHC-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,28,3919
+12-2003,I,Melbourne,Denpasar,Air Paradise International,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2493
+12-2003,I,Melbourne,Denpasar,Air Paradise International,DPS-SYD-MEL,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2493
+12-2003,I,Melbourne,Denpasar,Australian Airlines,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2105
+12-2003,I,Melbourne,Denpasar,Garuda Indonesia,DPS-ADL-MEL,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2637
+12-2003,I,Melbourne,Denpasar,Garuda Indonesia,DPS-MEL,Indonesia,SE Asia,Indonesia,SE Asia,0,4,1172
+12-2003,I,Melbourne,Dubai,Emirates,DXB-SIN-MEL-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,31,11703
+12-2003,I,Melbourne,Dunedin,Freedom Air International,DUD-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,11,1509
+12-2003,I,Melbourne,Guangzhou,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,0,9,3285
+12-2003,I,Melbourne,Guangzhou,China Southern Airlines,CAN-MEL-SYD,China,NE Asia,China,NE Asia,0,9,2583
+12-2003,I,Melbourne,Hamilton,Freedom Air International,HLZ-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1716
+12-2003,I,Melbourne,Hanoi,Vietnam Airlines,HAN-SGN-MEL,Vietnam,SE Asia,Vietnam,SE Asia,1,13,3738
+12-2003,I,Melbourne,Ho Chi Minh City,Vietnam Airlines,HAN-SGN-MEL,Vietnam,SE Asia,Vietnam,SE Asia,0,13,3738
+12-2003,I,Melbourne,Hong Kong,Cathay Pacific Airways,HKG-ADL-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,9,2259
+12-2003,I,Melbourne,Hong Kong,Cathay Pacific Airways,HKG-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,48,12040
+12-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,17,3861
+12-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-MEL-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,5,1137
+12-2003,I,Melbourne,Hong Kong,Qantas Airways,HKG-SYD-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,31,6915
+12-2003,I,Melbourne,Kuala Lumpur,Lauda Air,VIE-KUL-MEL,Malaysia,SE Asia,Austria,Europe,0,8,2752
+12-2003,I,Melbourne,Kuala Lumpur,Malaysia Airlines,KUL-MEL,Malaysia,SE Asia,Malaysia,SE Asia,0,62,17112
+12-2003,I,Melbourne,London,British Airways,LON-SIN-MEL,UK,Europe,UK,Europe,1,31,10881
+12-2003,I,Melbourne,London,Qantas Airways,LON-BKK-SYD-MEL,UK,Europe,UK,Europe,2,7,2692
+12-2003,I,Melbourne,London,Qantas Airways,LON-SIN-MEL,UK,Europe,UK,Europe,1,14,5499
+12-2003,I,Melbourne,London,Qantas Airways,LON-SIN-MEL-SYD,UK,Europe,UK,Europe,1,17,6676
+12-2003,I,Melbourne,Los Angeles,Qantas Airways,LAX-MEL,USA,N America,USA,N America,0,31,11098
+12-2003,I,Melbourne,Los Angeles,United Airlines,NYC-LAX-SYD-MEL,USA,N America,USA,N America,1,30,10410
+12-2003,I,Melbourne,Manila,Philippine Airlines,MNL-MEL-SYD,Philippines,SE Asia,Philippines,SE Asia,0,13,3926
+12-2003,I,Melbourne,Mauritius,Air Mauritius,MRU-MEL,Mauritius,Africa,Mauritius,Africa,0,4,1176
+12-2003,I,Melbourne,Mauritius,Air Mauritius,MRU-PER-MEL,Mauritius,Africa,Mauritius,Africa,1,1,294
+12-2003,I,Melbourne,Nadi,Fiji Airways,NAN-MEL,Fiji,Islands,Fiji,Islands,0,16,4598
+12-2003,I,Melbourne,Nauru,Our Airline,INU-(HIR)-BNE-MEL,Nauru,Islands,Nauru,Islands,2,1,110
+12-2003,I,Melbourne,Nauru,Our Airline,INU-BNE-MEL,Nauru,Islands,Nauru,Islands,1,3,330
+12-2003,I,Melbourne,New York,United Airlines,NYC-LAX-SYD-MEL,USA,N America,USA,N America,2,30,10410
+12-2003,I,Melbourne,Palmerston,Freedom Air International,PMR-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,10,1312
+12-2003,I,Melbourne,Shanghai,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,0,10,3394
+12-2003,I,Melbourne,Shanghai,China Eastern Airlines,SHA-MEL-SYD,China,NE Asia,China,NE Asia,0,5,1470
+12-2003,I,Melbourne,Singapore,British Airways,LON-SIN-MEL,Singapore,SE Asia,UK,Europe,0,31,10881
+12-2003,I,Melbourne,Singapore,Emirates,DXB-SIN-MEL-AKL,Singapore,SE Asia,United Arab Emirates,Middle East,0,31,11703
+12-2003,I,Melbourne,Singapore,Qantas Airways,LON-SIN-MEL,Singapore,SE Asia,UK,Europe,0,14,5499
+12-2003,I,Melbourne,Singapore,Qantas Airways,LON-SIN-MEL-SYD,Singapore,SE Asia,UK,Europe,0,17,6678
+12-2003,I,Melbourne,Singapore,Singapore Airlines,SIN-MEL,Singapore,SE Asia,Singapore,SE Asia,0,70,24841
+12-2003,I,Melbourne,Tokyo,Qantas Airways,TYO-MEL,Japan,NE Asia,Japan,NE Asia,0,30,6811
+12-2003,I,Melbourne,Vienna,Lauda Air,VIE-KUL-MEL,Austria,Europe,Austria,Europe,1,8,2752
+12-2003,I,Melbourne,Wellington,Air New Zealand,WLG-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,31,3532
+12-2003,I,Melbourne,Wellington,Qantas Airways,WLG-MEL,New Zealand,New Zealand,New Zealand,New Zealand,0,22,2552
+12-2003,I,Norfolk Island,Auckland,Air New Zealand,AKL-NLK,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1224
+12-2003,I,Perth,Auckland,Air New Zealand,AKL-PER,New Zealand,New Zealand,New Zealand,New Zealand,0,18,4144
+12-2003,I,Perth,Bandar Seri Begawan,Royal Brunei Airlines,BWN-PER,Brunei,SE Asia,Brunei,SE Asia,0,14,2772
+12-2003,I,Perth,Bangkok,Thai Airways International,BKK-PER,Thailand,SE Asia,Thailand,SE Asia,0,18,5490
+12-2003,I,Perth,Denpasar,Air Paradise International,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,25,4600
+12-2003,I,Perth,Denpasar,Garuda Indonesia,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,32,4924
+12-2003,I,Perth,Denpasar,Qantas Airways,DPS-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,9,1221
+12-2003,I,Perth,Dubai,Emirates,DXB-PER,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,31,9300
+12-2003,I,Perth,Hong Kong,Cathay Pacific Airways,HKG-PER,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,4043
+12-2003,I,Perth,Jakarta,Qantas Airways,JKT-PER,Indonesia,SE Asia,Indonesia,SE Asia,0,13,2693
+12-2003,I,Perth,Johannesburg,Qantas Airways,JNB-PER-SYD,South Africa,Africa,South Africa,Africa,0,1,432
+12-2003,I,Perth,Johannesburg,South African Airways,JNB-PER,South Africa,Africa,South Africa,Africa,0,25,5955
+12-2003,I,Perth,Kuala Lumpur,Malaysia Airlines,KUL-KCH-PER,Malaysia,SE Asia,Malaysia,SE Asia,1,8,2336
+12-2003,I,Perth,Kuala Lumpur,Malaysia Airlines,KUL-PER,Malaysia,SE Asia,Malaysia,SE Asia,0,40,11184
+12-2003,I,Perth,Kuching,Malaysia Airlines,KUL-KCH-PER,Malaysia,SE Asia,Malaysia,SE Asia,0,8,2336
+12-2003,I,Perth,Mauritius,Air Mauritius,MRU-PER,Mauritius,Africa,Mauritius,Africa,0,4,819
+12-2003,I,Perth,Mauritius,Air Mauritius,MRU-PER-MEL,Mauritius,Africa,Mauritius,Africa,0,1,294
+12-2003,I,Perth,Paris,Qantas Airways,PAR-SIN-PER,France,Europe,France,Europe,1,13,5616
+12-2003,I,Perth,Singapore,Qantas Airways,PAR-SIN-PER,Singapore,SE Asia,France,Europe,0,13,5616
+12-2003,I,Perth,Singapore,Qantas Airways,SIN-PER,Singapore,SE Asia,Singapore,SE Asia,0,49,12236
+12-2003,I,Perth,Singapore,Singapore Airlines,SIN-PER,Singapore,SE Asia,Singapore,SE Asia,0,80,25840
+12-2003,I,Perth,Tokyo,Qantas Airways,TYO-PER,Japan,NE Asia,Japan,NE Asia,0,14,3182
+12-2003,I,Sydney,Apia,Polynesian Airlines,APW-AKL-SYD,Western Samoa,Islands,Western Samoa,Islands,1,1,154
+12-2003,I,Sydney,Apia,Polynesian Airlines,APW-SYD,Western Samoa,Islands,Western Samoa,Islands,0,5,770
+12-2003,I,Sydney,Apia,Polynesian Airlines,APW-TBU-AKL-SYD,Western Samoa,Islands,Western Samoa,Islands,2,5,770
+12-2003,I,Sydney,Auckland,Aerolineas Argentinas,BUE-AKL-SYD,New Zealand,New Zealand,Argentina,S America,0,13,3211
+12-2003,I,Sydney,Auckland,Air New Zealand,AKL-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,150,25786
+12-2003,I,Sydney,Auckland,Emirates,AKL-SYD-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,30,7740
+12-2003,I,Sydney,Auckland,Emirates,AKL-SYD-SIN-DXB,New Zealand,New Zealand,New Zealand,New Zealand,0,1,380
+12-2003,I,Sydney,Auckland,LAN Airlines,SCL-AKL-SYD,New Zealand,New Zealand,Chile,S America,0,14,3626
+12-2003,I,Sydney,Auckland,Polynesian Airlines,APW-AKL-SYD,New Zealand,New Zealand,Western Samoa,Islands,0,1,154
+12-2003,I,Sydney,Auckland,Polynesian Airlines,APW-TBU-AKL-SYD,New Zealand,New Zealand,Western Samoa,Islands,0,5,770
+12-2003,I,Sydney,Auckland,Qantas Airways,AKL-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,147,37051
+12-2003,I,Sydney,Auckland,Qantas Airways,LAX-AKL-BNE-SYD,New Zealand,New Zealand,USA,N America,1,13,5568
+12-2003,I,Sydney,Auckland,Qantas Airways,LAX-AKL-SYD,New Zealand,New Zealand,USA,N America,0,14,3910
+12-2003,I,Sydney,Auckland,Royal Tongan Airlines,TBU-AKL-SYD,New Zealand,New Zealand,Tonga,Islands,0,4,740
+12-2003,I,Sydney,Auckland,Thai Airways International,AKL-SYD-BKK,New Zealand,New Zealand,New Zealand,New Zealand,0,31,12555
+12-2003,I,Sydney,Bahrain,Gulf Air,BAH-SIN-SYD,Bahrain,Middle East,Bahrain,Middle East,1,31,8215
+12-2003,I,Sydney,Bangkok,British Airways,LON-BKK-SYD,Thailand,SE Asia,UK,Europe,0,31,12131
+12-2003,I,Sydney,Bangkok,Qantas Airways,LON-BKK-SYD,Thailand,SE Asia,UK,Europe,0,24,9187
+12-2003,I,Sydney,Bangkok,Qantas Airways,LON-BKK-SYD-MEL,Thailand,SE Asia,UK,Europe,0,7,2707
+12-2003,I,Sydney,Bangkok,Thai Airways International,BKK-SYD-AKL,Thailand,SE Asia,Thailand,SE Asia,0,31,12555
+12-2003,I,Sydney,Bangkok,Thai Airways International,BKK-SYD-MEL,Thailand,SE Asia,Thailand,SE Asia,0,31,12555
+12-2003,I,Sydney,Beijing,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,2,9,3285
+12-2003,I,Sydney,Beijing,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,2,10,3394
+12-2003,I,Sydney,Beijing,Air China,BJS-SHA-SYD,China,NE Asia,China,NE Asia,1,12,4476
+12-2003,I,Sydney,Buenos Aires,Aerolineas Argentinas,BUE-AKL-SYD,Argentina,S America,Argentina,S America,1,13,3211
+12-2003,I,Sydney,Chicago,United Airlines,CHI-SFO-SYD,USA,N America,USA,N America,1,31,10757
+12-2003,I,Sydney,Christchurch,Air New Zealand,CHC-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,74,10717
+12-2003,I,Sydney,Christchurch,Qantas Airways,CHC-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,79,19479
+12-2003,I,Sydney,Denpasar,Air Paradise International,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2493
+12-2003,I,Sydney,Denpasar,Air Paradise International,DPS-SYD-MEL,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2493
+12-2003,I,Sydney,Denpasar,Australian Airlines,DPS-MEL-SYD,Indonesia,SE Asia,Indonesia,SE Asia,1,8,2105
+12-2003,I,Sydney,Denpasar,Australian Airlines,SIN-DPS-SYD,Indonesia,SE Asia,Singapore,SE Asia,0,13,3455
+12-2003,I,Sydney,Denpasar,Garuda Indonesia,DPS-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,17,4981
+12-2003,I,Sydney,Dubai,Emirates,DXB-SIN-SYD-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,1,380
+12-2003,I,Sydney,Dubai,Emirates,DXB-SYD-AKL,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,30,7740
+12-2003,I,Sydney,Dunedin,Freedom Air International,DUD-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,12,1638
+12-2003,I,Sydney,Frankfurt,Qantas Airways,FRA-SIN-SYD,Germany,Europe,Germany,Europe,1,31,13312
+12-2003,I,Sydney,Guangzhou,Air China,BJS-CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,3285
+12-2003,I,Sydney,Guangzhou,China Southern Airlines,CAN-MEL-SYD,China,NE Asia,China,NE Asia,1,9,2583
+12-2003,I,Sydney,Guangzhou,China Southern Airlines,CAN-SYD,China,NE Asia,China,NE Asia,0,7,2009
+12-2003,I,Sydney,Hamilton,Freedom Air International,HLZ-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1764
+12-2003,I,Sydney,Hanoi,Vietnam Airlines,HAN-SGN-SYD,Vietnam,SE Asia,Vietnam,SE Asia,1,18,6084
+12-2003,I,Sydney,Ho Chi Minh City,Vietnam Airlines,HAN-SGN-SYD,Vietnam,SE Asia,Vietnam,SE Asia,0,18,6084
+12-2003,I,Sydney,Hong Kong,Cathay Pacific Airways,HKG-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,62,16617
+12-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-BNE-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,1,394
+12-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-MEL-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,5,1137
+12-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-SYD,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,30,11658
+12-2003,I,Sydney,Hong Kong,Qantas Airways,HKG-SYD-MEL,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,31,6915
+12-2003,I,Sydney,Honolulu,Air Canada,YVR-HNL-SYD,USA,N America,Canada,N America,0,40,10385
+12-2003,I,Sydney,Honolulu,Qantas Airways,HNL-SYD,USA,N America,USA,N America,0,13,5626
+12-2003,I,Sydney,Jakarta,Qantas Airways,JKT-SYD,Indonesia,SE Asia,Indonesia,SE Asia,0,26,5952
+12-2003,I,Sydney,Johannesburg,Qantas Airways,JNB-PER-SYD,South Africa,Africa,South Africa,Africa,1,1,432
+12-2003,I,Sydney,Johannesburg,Qantas Airways,JNB-SYD,South Africa,Africa,South Africa,Africa,0,21,8960
+12-2003,I,Sydney,Kota Kinabalu,Australian Airlines,BKI-SYD,Malaysia,SE Asia,Malaysia,SE Asia,0,9,2436
+12-2003,I,Sydney,Kuala Lumpur,Lauda Air,VIE-KUL-SYD,Malaysia,SE Asia,Austria,Europe,0,23,7912
+12-2003,I,Sydney,Kuala Lumpur,Malaysia Airlines,KUL-SYD,Malaysia,SE Asia,Malaysia,SE Asia,0,48,16558
+12-2003,I,Sydney,London,British Airways,LON-BKK-SYD,UK,Europe,UK,Europe,1,31,12131
+12-2003,I,Sydney,London,British Airways,LON-SIN-SYD,UK,Europe,UK,Europe,1,31,10881
+12-2003,I,Sydney,London,Qantas Airways,LON-BKK-SYD,UK,Europe,UK,Europe,1,24,9187
+12-2003,I,Sydney,London,Qantas Airways,LON-BKK-SYD-MEL,UK,Europe,UK,Europe,1,7,2707
+12-2003,I,Sydney,London,Qantas Airways,LON-SIN-MEL-SYD,UK,Europe,UK,Europe,2,17,6673
+12-2003,I,Sydney,London,Qantas Airways,LON-SIN-SYD,UK,Europe,UK,Europe,1,31,12165
+12-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-AKL-BNE-SYD,USA,N America,USA,N America,2,13,5568
+12-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-AKL-SYD,USA,N America,USA,N America,1,14,3910
+12-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-BNE-SYD,USA,N America,USA,N America,1,1,358
+12-2003,I,Sydney,Los Angeles,Qantas Airways,LAX-SYD,USA,N America,USA,N America,0,61,21862
+12-2003,I,Sydney,Los Angeles,Qantas Airways,NYC-LAX-BNE-SYD,USA,N America,USA,N America,1,1,358
+12-2003,I,Sydney,Los Angeles,Qantas Airways,NYC-LAX-SYD,USA,N America,USA,N America,0,12,4296
+12-2003,I,Sydney,Los Angeles,United Airlines,LAX-SYD,USA,N America,USA,N America,0,1,347
+12-2003,I,Sydney,Los Angeles,United Airlines,NYC-LAX-SYD-MEL,USA,N America,USA,N America,0,30,10410
+12-2003,I,Sydney,Manila,Philippine Airlines,MNL-MEL-SYD,Philippines,SE Asia,Philippines,SE Asia,1,13,3926
+12-2003,I,Sydney,Manila,Philippine Airlines,MNL-SYD,Philippines,SE Asia,Philippines,SE Asia,0,2,604
+12-2003,I,Sydney,Manila,Qantas Airways,MNL-BNE-SYD,Philippines,SE Asia,Philippines,SE Asia,1,5,2194
+12-2003,I,Sydney,Manila,Qantas Airways,MNL-SYD,Philippines,SE Asia,Philippines,SE Asia,0,8,3454
+12-2003,I,Sydney,Nadi,Fiji Airways,NAN-SYD,Fiji,Islands,Fiji,Islands,0,31,14198
+12-2003,I,Sydney,Nagoya,Australian Airlines,NGO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,1,24,6413
+12-2003,I,Sydney,New York,Qantas Airways,NYC-LAX-BNE-SYD,USA,N America,USA,N America,2,1,358
+12-2003,I,Sydney,New York,Qantas Airways,NYC-LAX-SYD,USA,N America,USA,N America,1,12,4296
+12-2003,I,Sydney,New York,United Airlines,NYC-LAX-SYD-MEL,USA,N America,USA,N America,1,30,10410
+12-2003,I,Sydney,Noumea,Air Caledonie,NOU-SYD,New Caledonia,Islands,New Caledonia,Islands,0,18,3718
+12-2003,I,Sydney,Noumea,Qantas Airways,NOU-SYD,New Caledonia,Islands,New Caledonia,Islands,0,14,2683
+12-2003,I,Sydney,Osaka,Japan Airlines,OSA-BNE-SYD,Japan,NE Asia,Japan,NE Asia,1,31,14739
+12-2003,I,Sydney,Palmerston,Freedom Air International,PMR-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1072
+12-2003,I,Sydney,Port Moresby,Air Niugini,POM-BNE-SYD,Papua New Guinea,Islands,Papua New Guinea,Islands,1,7,1610
+12-2003,I,Sydney,Port Vila,Air Vanuatu,VLI-SYD,Vanuatu,Islands,Vanuatu,Islands,0,23,2937
+12-2003,I,Sydney,Queenstown,Air New Zealand,ZQN-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,4,456
+12-2003,I,Sydney,San Francisco,United Airlines,CHI-SFO-SYD,USA,N America,USA,N America,0,31,10757
+12-2003,I,Sydney,Santiago,LAN Airlines,SCL-AKL-SYD,Chile,S America,Chile,S America,1,14,3626
+12-2003,I,Sydney,Seoul,Asiana Airlines,SEL-SYD,Korea,NE Asia,Korea,NE Asia,0,31,9610
+12-2003,I,Sydney,Seoul,Korean Air,SEL-SYD,Korea,NE Asia,Korea,NE Asia,0,31,11873
+12-2003,I,Sydney,Shanghai,Air China,BJS-SHA-MEL-SYD,China,NE Asia,China,NE Asia,1,10,3394
+12-2003,I,Sydney,Shanghai,Air China,BJS-SHA-SYD,China,NE Asia,China,NE Asia,0,12,4476
+12-2003,I,Sydney,Shanghai,China Eastern Airlines,SHA-MEL-SYD,China,NE Asia,China,NE Asia,1,5,1470
+12-2003,I,Sydney,Shanghai,China Eastern Airlines,SHA-SYD,China,NE Asia,China,NE Asia,0,22,6314
+12-2003,I,Sydney,Singapore,Australian Airlines,SIN-DPS-SYD,Singapore,SE Asia,Singapore,SE Asia,1,13,3455
+12-2003,I,Sydney,Singapore,British Airways,LON-SIN-SYD,Singapore,SE Asia,UK,Europe,0,31,10881
+12-2003,I,Sydney,Singapore,Emirates,DXB-SIN-SYD-AKL,Singapore,SE Asia,United Arab Emirates,Middle East,0,1,380
+12-2003,I,Sydney,Singapore,Gulf Air,BAH-SIN-SYD,Singapore,SE Asia,Bahrain,Middle East,0,31,8215
+12-2003,I,Sydney,Singapore,Qantas Airways,FRA-SIN-SYD,Singapore,SE Asia,Germany,Europe,0,31,13313
+12-2003,I,Sydney,Singapore,Qantas Airways,LON-SIN-MEL-SYD,Singapore,SE Asia,UK,Europe,1,17,6675
+12-2003,I,Sydney,Singapore,Qantas Airways,LON-SIN-SYD,Singapore,SE Asia,UK,Europe,0,31,12166
+12-2003,I,Sydney,Singapore,Qantas Airways,SIN-BNE-SYD,Singapore,SE Asia,Singapore,SE Asia,1,9,3700
+12-2003,I,Sydney,Singapore,Qantas Airways,SIN-DRW-ADL-SYD,Singapore,SE Asia,Singapore,SE Asia,2,4,908
+12-2003,I,Sydney,Singapore,Singapore Airlines,SIN-SYD,Singapore,SE Asia,Singapore,SE Asia,0,97,34929
+12-2003,I,Sydney,Suva,Fiji Airways,SUV-SYD,Fiji,Islands,Fiji,Islands,0,5,734
+12-2003,I,Sydney,Taipei,China Airlines,TPE-SYD,Taiwan,NE Asia,Taiwan,NE Asia,0,18,4770
+12-2003,I,Sydney,Taipei,Eva Air,TPE-SYD,Taiwan,NE Asia,Taiwan,NE Asia,0,9,1944
+12-2003,I,Sydney,Tokyo,Japan Airlines,TYO-SYD,Japan,NE Asia,Japan,NE Asia,0,31,13927
+12-2003,I,Sydney,Tokyo,Qantas Airways,TYO-CNS-SYD,Japan,NE Asia,Japan,NE Asia,1,31,7094
+12-2003,I,Sydney,Tokyo,Qantas Airways,TYO-SYD,Japan,NE Asia,Japan,NE Asia,0,31,13390
+12-2003,I,Sydney,Tongatapu,Polynesian Airlines,APW-TBU-AKL-SYD,Tonga,Islands,Western Samoa,Islands,1,5,770
+12-2003,I,Sydney,Tongatapu,Royal Tongan Airlines,TBU-AKL-SYD,Tonga,Islands,Tonga,Islands,1,4,740
+12-2003,I,Sydney,Tongatapu,Royal Tongan Airlines,TBU-SYD,Tonga,Islands,Tonga,Islands,0,5,925
+12-2003,I,Sydney,Vancouver,Air Canada,YVR-HNL-SYD,Canada,N America,Canada,N America,1,40,10385
+12-2003,I,Sydney,Vienna,Lauda Air,VIE-KUL-SYD,Austria,Europe,Austria,Europe,1,23,7912
+12-2003,I,Sydney,Wellington,Air New Zealand,WLG-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,52,5925
+12-2003,I,Sydney,Wellington,Qantas Airways,WLG-SYD,New Zealand,New Zealand,New Zealand,New Zealand,0,62,7440
+12-2003,O,Adelaide,Denpasar,Garuda Indonesia,ADL-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2637
+12-2003,O,Adelaide,Hong Kong,Cathay Pacific Airways,ADL-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,9,2259
+12-2003,O,Adelaide,Kuala Lumpur,Malaysia Airlines,ADL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4694
+12-2003,O,Adelaide,Singapore,Qantas Airways,ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,1,9,2043
+12-2003,O,Adelaide,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,1,5,1135
+12-2003,O,Adelaide,Singapore,Singapore Airlines,ADL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,17,5491
+12-2003,O,Brisbane,Auckland,Air New Zealand,BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,32,12148
+12-2003,O,Brisbane,Auckland,Emirates,DXB-SIN-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,31,11412
+12-2003,O,Brisbane,Auckland,Freedom Air International,BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,16,2106
+12-2003,O,Brisbane,Auckland,Garuda Indonesia,DPS-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,9,2637
+12-2003,O,Brisbane,Auckland,Malaysia Airlines,KUL-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,14,5362
+12-2003,O,Brisbane,Auckland,Qantas Airways,BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,0,18,7738
+12-2003,O,Brisbane,Auckland,Qantas Airways,SYD-BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,0,13,5578
+12-2003,O,Brisbane,Auckland,Royal Brunei Airlines,BWN-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,17,3366
+12-2003,O,Brisbane,Auckland,Thai Airways International,BKK-BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,14,3990
+12-2003,O,Brisbane,Bandar Seri Begawan,Royal Brunei Airlines,AKL-BNE-BWN,Brunei,SE Asia,Brunei,SE Asia,0,17,3366
+12-2003,O,Brisbane,Bangkok,Thai Airways International,AKL-BNE-BKK,Thailand,SE Asia,Thailand,SE Asia,0,14,3990
+12-2003,O,Brisbane,Christchurch,Air New Zealand,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,16,2176
+12-2003,O,Brisbane,Christchurch,Freedom Air International,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,21,2960
+12-2003,O,Brisbane,Christchurch,Qantas Airways,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,20,2959
+12-2003,O,Brisbane,Denpasar,Garuda Indonesia,AKL-BNE-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2637
+12-2003,O,Brisbane,Denpasar,Garuda Indonesia,BNE-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1465
+12-2003,O,Brisbane,Dubai,Emirates,AKL-BNE-SIN-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,31,11412
+12-2003,O,Brisbane,Dunedin,Freedom Air International,BNE-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,12,1704
+12-2003,O,Brisbane,Hamilton,Freedom Air International,BNE-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,20,2696
+12-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,BNE-CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,9,2799
+12-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,4,1244
+12-2003,O,Brisbane,Hong Kong,Cathay Pacific Airways,CNS-BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,8,2488
+12-2003,O,Brisbane,Hong Kong,Qantas Airways,BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,2953
+12-2003,O,Brisbane,Honiara,Our Airline,BNE-HIR-INU,Solomon Islands,Islands,Nauru,Islands,0,1,110
+12-2003,O,Brisbane,Honiara,Our Airline,MEL-BNE-HIR-INU,Solomon Islands,Islands,Nauru,Islands,0,1,110
+12-2003,O,Brisbane,Honiara,Solomon Airlines,BNE-HIR,Solomon Islands,Islands,Solomon Islands,Islands,0,11,1500
+12-2003,O,Brisbane,Kuala Lumpur,Malaysia Airlines,AKL-BNE-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,14,5362
+12-2003,O,Brisbane,Kuala Lumpur,Malaysia Airlines,BNE-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,12,2724
+12-2003,O,Brisbane,Los Angeles,Qantas Airways,BNE-AKL-LAX,USA,N America,USA,N America,1,18,7737
+12-2003,O,Brisbane,Los Angeles,Qantas Airways,SYD-BNE-AKL-LAX,USA,N America,USA,N America,1,13,5578
+12-2003,O,Brisbane,Manila,Qantas Airways,SYD-BNE-MNL,Philippines,SE Asia,Philippines,SE Asia,0,4,1772
+12-2003,O,Brisbane,Nadi,Fiji Airways,BNE-NAN,Fiji,Islands,Fiji,Islands,0,31,5138
+12-2003,O,Brisbane,Nauru,Our Airline,BNE-HIR-INU,Nauru,Islands,Nauru,Islands,1,1,110
+12-2003,O,Brisbane,Nauru,Our Airline,BNE-INU,Nauru,Islands,Nauru,Islands,0,3,330
+12-2003,O,Brisbane,Nauru,Our Airline,MEL-BNE-HIR-INU,Nauru,Islands,Nauru,Islands,1,1,110
+12-2003,O,Brisbane,Nauru,Our Airline,MEL-BNE-INU,Nauru,Islands,Nauru,Islands,0,3,330
+12-2003,O,Brisbane,Noumea,Air Caledonie,BNE-NOU,New Caledonia,Islands,New Caledonia,Islands,0,8,1153
+12-2003,O,Brisbane,Noumea,Qantas Airways,BNE-NOU,New Caledonia,Islands,New Caledonia,Islands,0,4,578
+12-2003,O,Brisbane,Osaka,Japan Airlines,BNE-SYD-OSA,Japan,NE Asia,Japan,NE Asia,1,31,14480
+12-2003,O,Brisbane,Palmerston,Freedom Air International,BNE-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1846
+12-2003,O,Brisbane,Port Moresby,Air Niugini,BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,15,3450
+12-2003,O,Brisbane,Port Moresby,Air Niugini,SYD-BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,8,1840
+12-2003,O,Brisbane,Port Vila,Air Vanuatu,BNE-VLI,Vanuatu,Islands,Vanuatu,Islands,0,14,1790
+12-2003,O,Brisbane,Seoul,Korean Air,BNE-SEL,Korea,NE Asia,Korea,NE Asia,0,10,3830
+12-2003,O,Brisbane,Singapore,Emirates,AKL-BNE-SIN-DXB,Singapore,SE Asia,United Arab Emirates,Middle East,0,31,11412
+12-2003,O,Brisbane,Singapore,Qantas Airways,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,22,9316
+12-2003,O,Brisbane,Singapore,Qantas Airways,SYD-BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,9,3700
+12-2003,O,Brisbane,Singapore,Singapore Airlines,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,67,21641
+12-2003,O,Brisbane,Taipei,China Airlines,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,2385
+12-2003,O,Brisbane,Taipei,Eva Air,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,13,2938
+12-2003,O,Brisbane,Tokyo,Japan Airlines,BNE-TYO,Japan,NE Asia,Japan,NE Asia,0,31,13345
+12-2003,O,Brisbane,Tokyo,Qantas Airways,BNE-CNS-TYO,Japan,NE Asia,Japan,NE Asia,1,31,7094
+12-2003,O,Brisbane,Wellington,Freedom Air International,BNE-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,25,3262
+12-2003,O,Brisbane,Wellington,Qantas Airways,BNE-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1560
+12-2003,O,Cairns,Auckland,Air New Zealand,CNS-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,9,2070
+12-2003,O,Cairns,Fukuoka,Australian Airlines,CNS-FUK,Japan,NE Asia,Japan,NE Asia,0,13,3395
+12-2003,O,Cairns,Guam,Continental Micronesia,CNS-GUM,Guam,Islands,Guam,Islands,0,13,2002
+12-2003,O,Cairns,Hong Kong,Australian Airlines,CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,3478
+12-2003,O,Cairns,Hong Kong,Cathay Pacific Airways,BNE-CNS-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,9,2799
+12-2003,O,Cairns,Hong Kong,Cathay Pacific Airways,CNS-BNE-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,8,2488
+12-2003,O,Cairns,Kota Kinabalu,Australian Airlines,CNS-SIN-BKI,Malaysia,SE Asia,Malaysia,SE Asia,1,9,2401
+12-2003,O,Cairns,Nagoya,Australian Airlines,CNS-NGO,Japan,NE Asia,Japan,NE Asia,0,7,1894
+12-2003,O,Cairns,Nagoya,Australian Airlines,SYD-CNS-NGO,Japan,NE Asia,Japan,NE Asia,0,24,6498
+12-2003,O,Cairns,Osaka,Australian Airlines,OOL-CNS-OSA,Japan,NE Asia,Japan,NE Asia,0,31,8399
+12-2003,O,Cairns,Port Moresby,Air Niugini,CNS-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,46,3392
+12-2003,O,Cairns,Singapore,Australian Airlines,CNS-SIN,Singapore,SE Asia,Singapore,SE Asia,0,5,1317
+12-2003,O,Cairns,Singapore,Australian Airlines,CNS-SIN-BKI,Singapore,SE Asia,Malaysia,SE Asia,0,9,2436
+12-2003,O,Cairns,Tokyo,Qantas Airways,BNE-CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,31,7096
+12-2003,O,Cairns,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,2,454
+12-2003,O,Cairns,Tokyo,Qantas Airways,SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,0,31,7097
+12-2003,O,Christmas Island,Jakarta,Merpati Nusantara Airlines,XCH-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,4,400
+12-2003,O,Darwin,Bandar Seri Begawan,Royal Brunei Airlines,DRW-BWN,Brunei,SE Asia,Brunei,SE Asia,0,14,1834
+12-2003,O,Darwin,Bangkok,Qantas Airways,SYD-DRW-BKK-LON,Thailand,SE Asia,UK,Europe,0,1,379
+12-2003,O,Darwin,Denpasar,Garuda Indonesia,DRW-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,1072
+12-2003,O,Darwin,Denpasar,Qantas Airways,DRW-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,1288
+12-2003,O,Darwin,London,Qantas Airways,SYD-DRW-BKK-LON,UK,Europe,UK,Europe,1,1,379
+12-2003,O,Darwin,Singapore,Qantas Airways,ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,9,2043
+12-2003,O,Darwin,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,5,1135
+12-2003,O,Gold Coast,Auckland,Freedom Air International,OOL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,26,3488
+12-2003,O,Gold Coast,Christchurch,Freedom Air International,OOL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1278
+12-2003,O,Gold Coast,Dunedin,Freedom Air International,OOL-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,1,142
+12-2003,O,Gold Coast,Hamilton,Freedom Air International,OOL-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,6,852
+12-2003,O,Gold Coast,Osaka,Australian Airlines,OOL-CNS-OSA,Japan,NE Asia,Japan,NE Asia,1,31,8355
+12-2003,O,Melbourne,Auckland,Air New Zealand,MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,80,14939
+12-2003,O,Melbourne,Auckland,Emirates,DXB-SIN-MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,31,11703
+12-2003,O,Melbourne,Auckland,Qantas Airways,MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,62,14540
+12-2003,O,Melbourne,Auckland,Qantas Airways,MEL-AKL-LAX,New Zealand,New Zealand,USA,N America,0,1,358
+12-2003,O,Melbourne,Bangkok,Thai Airways International,MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,0,22,6270
+12-2003,O,Melbourne,Bangkok,Thai Airways International,SYD-MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,0,18,7290
+12-2003,O,Melbourne,Bangkok,Thai Airways International,SYD-MEL-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,1,13,5265
+12-2003,O,Melbourne,Beijing,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,2,9,3285
+12-2003,O,Melbourne,Beijing,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,2,10,3394
+12-2003,O,Melbourne,Christchurch,Air New Zealand,MEL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,43,5218
+12-2003,O,Melbourne,Christchurch,Qantas Airways,MEL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,28,3919
+12-2003,O,Melbourne,Denpasar,Air Paradise International,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2493
+12-2003,O,Melbourne,Denpasar,Air Paradise International,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2493
+12-2003,O,Melbourne,Denpasar,Australian Airlines,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2105
+12-2003,O,Melbourne,Denpasar,Garuda Indonesia,ADL-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2637
+12-2003,O,Melbourne,Denpasar,Garuda Indonesia,MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,4,1172
+12-2003,O,Melbourne,Dubai,Emirates,AKL-MEL-SIN-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,31,11703
+12-2003,O,Melbourne,Dunedin,Freedom Air International,MEL-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,11,1562
+12-2003,O,Melbourne,Guangzhou,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,1,9,3285
+12-2003,O,Melbourne,Guangzhou,China Southern Airlines,MEL-SYD-CAN,China,NE Asia,China,NE Asia,1,9,2583
+12-2003,O,Melbourne,Hamilton,Freedom Air International,MEL-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1846
+12-2003,O,Melbourne,Hanoi,Vietnam Airlines,MEL-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,1,13,3738
+12-2003,O,Melbourne,Ho Chi Minh City,Vietnam Airlines,MEL-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,0,13,3738
+12-2003,O,Melbourne,Hong Kong,Cathay Pacific Airways,ADL-MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,9,2259
+12-2003,O,Melbourne,Hong Kong,Cathay Pacific Airways,MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,48,12040
+12-2003,O,Melbourne,Hong Kong,Qantas Airways,MEL-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,22,4998
+12-2003,O,Melbourne,Hong Kong,Qantas Airways,MEL-SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,1,25,5675
+12-2003,O,Melbourne,Honolulu,Qantas Airways,MEL-HNL-LAX,USA,N America,USA,N America,0,1,358
+12-2003,O,Melbourne,Honolulu,Qantas Airways,MEL-SYD-HNL,USA,N America,USA,N America,1,13,5106
+12-2003,O,Melbourne,Kuala Lumpur,Lauda Air,MEL-KUL-VIE,Malaysia,SE Asia,Austria,Europe,0,8,2752
+12-2003,O,Melbourne,Kuala Lumpur,Malaysia Airlines,MEL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,62,17112
+12-2003,O,Melbourne,London,British Airways,MEL-SIN-LON,UK,Europe,UK,Europe,1,31,10881
+12-2003,O,Melbourne,London,Qantas Airways,MEL-SIN-LON,UK,Europe,UK,Europe,1,8,3137
+12-2003,O,Melbourne,London,Qantas Airways,SYD-MEL-SIN-LON,UK,Europe,UK,Europe,1,23,9011
+12-2003,O,Melbourne,Los Angeles,Qantas Airways,MEL-AKL-LAX,USA,N America,USA,N America,1,1,358
+12-2003,O,Melbourne,Los Angeles,Qantas Airways,MEL-HNL-LAX,USA,N America,USA,N America,1,1,358
+12-2003,O,Melbourne,Los Angeles,Qantas Airways,MEL-LAX,USA,N America,USA,N America,0,29,10382
+12-2003,O,Melbourne,Los Angeles,United Airlines,MEL-SYD-LAX-NYC,USA,N America,USA,N America,1,30,10410
+12-2003,O,Melbourne,Manila,Philippine Airlines,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,1,13,3926
+12-2003,O,Melbourne,Mauritius,Air Mauritius,MEL-MRU,Mauritius,Africa,Mauritius,Africa,0,4,1176
+12-2003,O,Melbourne,Mauritius,Air Mauritius,MEL-PER-MRU,Mauritius,Africa,Mauritius,Africa,1,1,294
+12-2003,O,Melbourne,Nadi,Fiji Airways,MEL-NAN,Fiji,Islands,Fiji,Islands,0,16,4598
+12-2003,O,Melbourne,Nauru,Our Airline,MEL-BNE-(HIR)-INU,Nauru,Islands,Nauru,Islands,2,1,110
+12-2003,O,Melbourne,Nauru,Our Airline,MEL-BNE-INU,Nauru,Islands,Nauru,Islands,1,3,330
+12-2003,O,Melbourne,New York,United Airlines,MEL-SYD-LAX-NYC,USA,N America,USA,N America,2,30,10410
+12-2003,O,Melbourne,Palmerston,Freedom Air International,MEL-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,10,1420
+12-2003,O,Melbourne,Phuket,Thai Airways International,SYD-MEL-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,0,13,5265
+12-2003,O,Melbourne,Shanghai,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,10,3394
+12-2003,O,Melbourne,Shanghai,China Eastern Airlines,MEL-SYD-SHA,China,NE Asia,China,NE Asia,1,5,1470
+12-2003,O,Melbourne,Singapore,British Airways,MEL-SIN-LON,Singapore,SE Asia,UK,Europe,0,31,10881
+12-2003,O,Melbourne,Singapore,Emirates,AKL-MEL-SIN-DXB,Singapore,SE Asia,United Arab Emirates,Middle East,0,31,11703
+12-2003,O,Melbourne,Singapore,Qantas Airways,MEL-ADL-DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,2,5,1135
+12-2003,O,Melbourne,Singapore,Qantas Airways,MEL-SIN-LON,Singapore,SE Asia,UK,Europe,0,8,3137
+12-2003,O,Melbourne,Singapore,Qantas Airways,SYD-MEL-SIN-LON,Singapore,SE Asia,UK,Europe,0,23,9020
+12-2003,O,Melbourne,Singapore,Singapore Airlines,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,71,25180
+12-2003,O,Melbourne,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,2,2,454
+12-2003,O,Melbourne,Tokyo,Qantas Airways,MEL-SYD-TYO,Japan,NE Asia,Japan,NE Asia,1,10,2270
+12-2003,O,Melbourne,Tokyo,Qantas Airways,MEL-TYO,Japan,NE Asia,Japan,NE Asia,0,19,4313
+12-2003,O,Melbourne,Vienna,Lauda Air,MEL-KUL-VIE,Austria,Europe,Austria,Europe,1,8,2752
+12-2003,O,Melbourne,Wellington,Air New Zealand,MEL-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,31,3535
+12-2003,O,Melbourne,Wellington,Qantas Airways,MEL-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,22,2640
+12-2003,O,Norfolk Island,Auckland,Air New Zealand,NLK-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,9,1224
+12-2003,O,Perth,Auckland,Air New Zealand,PER-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,17,3942
+12-2003,O,Perth,Bandar Seri Begawan,Royal Brunei Airlines,PER-BWN,Brunei,SE Asia,Brunei,SE Asia,0,13,2574
+12-2003,O,Perth,Bangkok,Thai Airways International,PER-BKK,Thailand,SE Asia,Thailand,SE Asia,0,9,2745
+12-2003,O,Perth,Bangkok,Thai Airways International,PER-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,1,8,2440
+12-2003,O,Perth,Denpasar,Air Paradise International,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,25,4600
+12-2003,O,Perth,Denpasar,Garuda Indonesia,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,32,4924
+12-2003,O,Perth,Denpasar,Qantas Airways,PER-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,1221
+12-2003,O,Perth,Dubai,Emirates,PER-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,31,9300
+12-2003,O,Perth,Frankfurt,Qantas Airways,PER-SIN-FRA-PAR,Germany,Europe,France,Europe,1,1,432
+12-2003,O,Perth,Hong Kong,Cathay Pacific Airways,PER-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,13,4043
+12-2003,O,Perth,Jakarta,Qantas Airways,PER-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,13,2697
+12-2003,O,Perth,Johannesburg,South African Airways,PER-JNB,South Africa,Africa,South Africa,Africa,0,25,6010
+12-2003,O,Perth,Kuala Lumpur,Malaysia Airlines,PER-KCH-KUL,Malaysia,SE Asia,Malaysia,SE Asia,1,9,2628
+12-2003,O,Perth,Kuala Lumpur,Malaysia Airlines,PER-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,40,11194
+12-2003,O,Perth,Kuching,Malaysia Airlines,PER-KCH-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,9,2628
+12-2003,O,Perth,Mauritius,Air Mauritius,MEL-PER-MRU,Mauritius,Africa,Mauritius,Africa,0,1,294
+12-2003,O,Perth,Mauritius,Air Mauritius,PER-MRU,Mauritius,Africa,Mauritius,Africa,0,4,819
+12-2003,O,Perth,Paris,Qantas Airways,PER-SIN-FRA-PAR,France,Europe,France,Europe,2,1,432
+12-2003,O,Perth,Paris,Qantas Airways,PER-SIN-PAR,France,Europe,France,Europe,1,13,5610
+12-2003,O,Perth,Phuket,Thai Airways International,PER-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,0,8,2440
+12-2003,O,Perth,Singapore,Qantas Airways,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,48,11804
+12-2003,O,Perth,Singapore,Qantas Airways,PER-SIN-FRA-PAR,Singapore,SE Asia,France,Europe,0,1,432
+12-2003,O,Perth,Singapore,Qantas Airways,PER-SIN-PAR,Singapore,SE Asia,France,Europe,0,13,5610
+12-2003,O,Perth,Singapore,Singapore Airlines,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,80,25840
+12-2003,O,Perth,Tokyo,Qantas Airways,PER-TYO,Japan,NE Asia,Japan,NE Asia,0,13,2951
+12-2003,O,Sydney,Apia,Polynesian Airlines,SYD-AKL-APW,Western Samoa,Islands,Western Samoa,Islands,1,5,770
+12-2003,O,Sydney,Apia,Polynesian Airlines,SYD-APW,Western Samoa,Islands,Western Samoa,Islands,0,1,154
+12-2003,O,Sydney,Apia,Polynesian Airlines,SYD-TBU-APW,Western Samoa,Islands,Western Samoa,Islands,1,5,770
+12-2003,O,Sydney,Auckland,Aerolineas Argentinas,SYD-AKL-BUE,New Zealand,New Zealand,Argentina,S America,0,13,3211
+12-2003,O,Sydney,Auckland,Air New Zealand,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,151,25945
+12-2003,O,Sydney,Auckland,Emirates,DXB-SIN-SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,1,380
+12-2003,O,Sydney,Auckland,Emirates,DXB-SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,30,7740
+12-2003,O,Sydney,Auckland,LAN Airlines,SYD-AKL-SCL,New Zealand,New Zealand,Chile,S America,0,14,3626
+12-2003,O,Sydney,Auckland,Polynesian Airlines,SYD-AKL-APW,New Zealand,New Zealand,Western Samoa,Islands,0,5,770
+12-2003,O,Sydney,Auckland,Qantas Airways,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,147,37083
+12-2003,O,Sydney,Auckland,Qantas Airways,SYD-AKL-LAX,New Zealand,New Zealand,USA,N America,0,14,4036
+12-2003,O,Sydney,Auckland,Qantas Airways,SYD-BNE-AKL-LAX,New Zealand,New Zealand,USA,N America,1,13,5578
+12-2003,O,Sydney,Auckland,Royal Tongan Airlines,SYD-AKL-TBU,New Zealand,New Zealand,Tonga,Islands,0,5,925
+12-2003,O,Sydney,Auckland,Thai Airways International,BKK-SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,31,12555
+12-2003,O,Sydney,Bahrain,Gulf Air,SYD-SIN-BAH,Bahrain,Middle East,Bahrain,Middle East,1,31,8215
+12-2003,O,Sydney,Bangkok,British Airways,SYD-BKK-LON,Thailand,SE Asia,UK,Europe,0,31,12131
+12-2003,O,Sydney,Bangkok,Qantas Airways,SYD-BKK-LON,Thailand,SE Asia,UK,Europe,0,30,11523
+12-2003,O,Sydney,Bangkok,Qantas Airways,SYD-DRW-BKK-LON,Thailand,SE Asia,UK,Europe,1,1,379
+12-2003,O,Sydney,Bangkok,Thai Airways International,AKL-SYD-BKK,Thailand,SE Asia,Thailand,SE Asia,0,31,12555
+12-2003,O,Sydney,Bangkok,Thai Airways International,SYD-MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,1,18,7290
+12-2003,O,Sydney,Bangkok,Thai Airways International,SYD-MEL-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,2,13,5265
+12-2003,O,Sydney,Beijing,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,1,9,3285
+12-2003,O,Sydney,Beijing,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,10,3394
+12-2003,O,Sydney,Beijing,Air China,SYD-SHA-BJS,China,NE Asia,China,NE Asia,1,12,4476
+12-2003,O,Sydney,Buenos Aires,Aerolineas Argentinas,SYD-AKL-BUE,Argentina,S America,Argentina,S America,1,13,3211
+12-2003,O,Sydney,Chicago,United Airlines,SYD-SFO-CHI,USA,N America,USA,N America,1,29,10063
+12-2003,O,Sydney,Christchurch,Air New Zealand,SYD-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,74,10787
+12-2003,O,Sydney,Christchurch,Qantas Airways,SYD-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,79,19468
+12-2003,O,Sydney,Denpasar,Air Paradise International,MEL-SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,9,2493
+12-2003,O,Sydney,Denpasar,Air Paradise International,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,9,2493
+12-2003,O,Sydney,Denpasar,Australian Airlines,SYD-DPS-SIN,Indonesia,SE Asia,Singapore,SE Asia,0,13,3455
+12-2003,O,Sydney,Denpasar,Australian Airlines,SYD-MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,1,8,2105
+12-2003,O,Sydney,Denpasar,Garuda Indonesia,SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,17,4981
+12-2003,O,Sydney,Dubai,Emirates,AKL-SYD-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,30,7740
+12-2003,O,Sydney,Dubai,Emirates,AKL-SYD-SIN-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,1,1,380
+12-2003,O,Sydney,Dunedin,Freedom Air International,SYD-DUD,New Zealand,New Zealand,New Zealand,New Zealand,0,12,1704
+12-2003,O,Sydney,Frankfurt,Qantas Airways,SYD-SIN-FRA,Germany,Europe,Germany,Europe,1,31,13309
+12-2003,O,Sydney,Guangzhou,Air China,MEL-SYD-CAN-BJS,China,NE Asia,China,NE Asia,0,9,3285
+12-2003,O,Sydney,Guangzhou,China Southern Airlines,MEL-SYD-CAN,China,NE Asia,China,NE Asia,0,9,2583
+12-2003,O,Sydney,Guangzhou,China Southern Airlines,SYD-CAN,China,NE Asia,China,NE Asia,0,7,2009
+12-2003,O,Sydney,Hamilton,Freedom Air International,SYD-HLZ,New Zealand,New Zealand,New Zealand,New Zealand,0,13,1846
+12-2003,O,Sydney,Hanoi,Vietnam Airlines,SYD-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,1,18,6084
+12-2003,O,Sydney,Ho Chi Minh City,Vietnam Airlines,SYD-SGN-HAN,Vietnam,SE Asia,Vietnam,SE Asia,0,18,6084
+12-2003,O,Sydney,Hong Kong,Cathay Pacific Airways,SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,62,16617
+12-2003,O,Sydney,Hong Kong,Qantas Airways,MEL-SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,25,5675
+12-2003,O,Sydney,Hong Kong,Qantas Airways,SYD-HKG,Hong Kong (SAR),NE Asia,Hong Kong (SAR),NE Asia,0,37,13414
+12-2003,O,Sydney,Honolulu,Air Canada,SYD-HNL-YVR,USA,N America,Canada,N America,0,39,10141
+12-2003,O,Sydney,Honolulu,Qantas Airways,MEL-SYD-HNL,USA,N America,USA,N America,0,13,5626
+12-2003,O,Sydney,Jakarta,Qantas Airways,SYD-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,26,5951
+12-2003,O,Sydney,Johannesburg,Qantas Airways,SYD-JNB,South Africa,Africa,South Africa,Africa,0,22,8780
+12-2003,O,Sydney,Kota Kinabalu,Australian Airlines,SYD-BKI,Malaysia,SE Asia,Malaysia,SE Asia,0,8,2166
+12-2003,O,Sydney,Kuala Lumpur,Lauda Air,SYD-KUL-VIE,Malaysia,SE Asia,Austria,Europe,0,23,7912
+12-2003,O,Sydney,Kuala Lumpur,Malaysia Airlines,SYD-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,48,16566
+12-2003,O,Sydney,London,British Airways,SYD-BKK-LON,UK,Europe,UK,Europe,1,31,12131
+12-2003,O,Sydney,London,British Airways,SYD-SIN-LON,UK,Europe,UK,Europe,1,31,10881
+12-2003,O,Sydney,London,Qantas Airways,SYD-BKK-LON,UK,Europe,UK,Europe,1,30,11507
+12-2003,O,Sydney,London,Qantas Airways,SYD-DRW-BKK-LON,UK,Europe,UK,Europe,2,1,379
+12-2003,O,Sydney,London,Qantas Airways,SYD-MEL-SIN-LON,UK,Europe,UK,Europe,2,23,9001
+12-2003,O,Sydney,London,Qantas Airways,SYD-SIN-LON,UK,Europe,UK,Europe,1,31,12193
+12-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-AKL-LAX,USA,N America,USA,N America,1,14,4036
+12-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-BNE-AKL-LAX,USA,N America,USA,N America,2,13,5578
+12-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-LAX,USA,N America,USA,N America,0,62,22340
+12-2003,O,Sydney,Los Angeles,Qantas Airways,SYD-LAX-NYC,USA,N America,USA,N America,0,13,4654
+12-2003,O,Sydney,Los Angeles,United Airlines,MEL-SYD-LAX-NYC,USA,N America,USA,N America,0,30,10410
+12-2003,O,Sydney,Los Angeles,United Airlines,SYD-LAX,USA,N America,USA,N America,0,1,347
+12-2003,O,Sydney,Manila,Philippine Airlines,MEL-SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,13,3926
+12-2003,O,Sydney,Manila,Philippine Airlines,SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,2,604
+12-2003,O,Sydney,Manila,Qantas Airways,SYD-BNE-MNL,Philippines,SE Asia,Philippines,SE Asia,1,4,1772
+12-2003,O,Sydney,Manila,Qantas Airways,SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,9,3882
+12-2003,O,Sydney,Nadi,Fiji Airways,SYD-NAN,Fiji,Islands,Fiji,Islands,0,31,14198
+12-2003,O,Sydney,Nagoya,Australian Airlines,SYD-CNS-NGO,Japan,NE Asia,Japan,NE Asia,1,24,6424
+12-2003,O,Sydney,New York,Qantas Airways,SYD-LAX-NYC,USA,N America,USA,N America,1,13,4654
+12-2003,O,Sydney,New York,United Airlines,MEL-SYD-LAX-NYC,USA,N America,USA,N America,1,30,10410
+12-2003,O,Sydney,Noumea,Air Caledonie,SYD-NOU,New Caledonia,Islands,New Caledonia,Islands,0,18,3718
+12-2003,O,Sydney,Noumea,Qantas Airways,SYD-NOU,New Caledonia,Islands,New Caledonia,Islands,0,12,2317
+12-2003,O,Sydney,Osaka,Japan Airlines,BNE-SYD-OSA,Japan,NE Asia,Japan,NE Asia,0,31,14480
+12-2003,O,Sydney,Palmerston,Freedom Air International,SYD-PMR,New Zealand,New Zealand,New Zealand,New Zealand,0,8,1136
+12-2003,O,Sydney,Phuket,Thai Airways International,SYD-MEL-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,1,13,5265
+12-2003,O,Sydney,Port Moresby,Air Niugini,SYD-BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,1,8,1840
+12-2003,O,Sydney,Port Vila,Air Vanuatu,SYD-VLI,Vanuatu,Islands,Vanuatu,Islands,0,23,2937
+12-2003,O,Sydney,Queenstown,Air New Zealand,SYD-ZQN,New Zealand,New Zealand,New Zealand,New Zealand,0,4,456
+12-2003,O,Sydney,San Francisco,United Airlines,SYD-SFO,USA,N America,USA,N America,0,2,694
+12-2003,O,Sydney,San Francisco,United Airlines,SYD-SFO-CHI,USA,N America,USA,N America,0,29,10063
+12-2003,O,Sydney,Santiago,LAN Airlines,SYD-AKL-SCL,Chile,S America,Chile,S America,1,14,3626
+12-2003,O,Sydney,Seoul,Asiana Airlines,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,31,9610
+12-2003,O,Sydney,Seoul,Korean Air,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,31,11873
+12-2003,O,Sydney,Shanghai,Air China,MEL-SYD-SHA-BJS,China,NE Asia,China,NE Asia,0,10,3394
+12-2003,O,Sydney,Shanghai,Air China,SYD-SHA-BJS,China,NE Asia,China,NE Asia,0,12,4476
+12-2003,O,Sydney,Shanghai,China Eastern Airlines,MEL-SYD-SHA,China,NE Asia,China,NE Asia,0,5,1470
+12-2003,O,Sydney,Shanghai,China Eastern Airlines,SYD-SHA,China,NE Asia,China,NE Asia,0,22,6314
+12-2003,O,Sydney,Singapore,Australian Airlines,SYD-DPS-SIN,Singapore,SE Asia,Singapore,SE Asia,1,13,3455
+12-2003,O,Sydney,Singapore,British Airways,SYD-SIN-LON,Singapore,SE Asia,UK,Europe,0,31,10881
+12-2003,O,Sydney,Singapore,Emirates,AKL-SYD-SIN-DXB,Singapore,SE Asia,United Arab Emirates,Middle East,0,1,380
+12-2003,O,Sydney,Singapore,Gulf Air,SYD-SIN-BAH,Singapore,SE Asia,Bahrain,Middle East,0,31,8215
+12-2003,O,Sydney,Singapore,Qantas Airways,SYD-BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,1,9,3700
+12-2003,O,Sydney,Singapore,Qantas Airways,SYD-MEL-SIN-LON,Singapore,SE Asia,UK,Europe,1,23,9009
+12-2003,O,Sydney,Singapore,Qantas Airways,SYD-SIN-FRA,Singapore,SE Asia,Germany,Europe,0,31,13315
+12-2003,O,Sydney,Singapore,Qantas Airways,SYD-SIN-LON,Singapore,SE Asia,UK,Europe,0,31,12196
+12-2003,O,Sydney,Singapore,Singapore Airlines,SYD-SIN,Singapore,SE Asia,Singapore,SE Asia,0,97,34929
+12-2003,O,Sydney,Suva,Fiji Airways,SYD-SUV,Fiji,Islands,Fiji,Islands,0,5,734
+12-2003,O,Sydney,Taipei,China Airlines,SYD-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,18,4770
+12-2003,O,Sydney,Taipei,Eva Air,SYD-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,9,1944
+12-2003,O,Sydney,Tokyo,Japan Airlines,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,31,13915
+12-2003,O,Sydney,Tokyo,Qantas Airways,MEL-SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,1,2,454
+12-2003,O,Sydney,Tokyo,Qantas Airways,MEL-SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,10,2270
+12-2003,O,Sydney,Tokyo,Qantas Airways,SYD-CNS-TYO,Japan,NE Asia,Japan,NE Asia,1,31,7097
+12-2003,O,Sydney,Tokyo,Qantas Airways,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,31,13360
+12-2003,O,Sydney,Tongatapu,Polynesian Airlines,SYD-TBU-APW,Tonga,Islands,Western Samoa,Islands,0,5,770
+12-2003,O,Sydney,Tongatapu,Royal Tongan Airlines,SYD-AKL-TBU,Tonga,Islands,Tonga,Islands,1,5,925
+12-2003,O,Sydney,Tongatapu,Royal Tongan Airlines,SYD-TBU,Tonga,Islands,Tonga,Islands,0,4,740
+12-2003,O,Sydney,Vancouver,Air Canada,SYD-HNL-YVR,Canada,N America,Canada,N America,1,39,10141
+12-2003,O,Sydney,Vienna,Lauda Air,SYD-KUL-VIE,Austria,Europe,Austria,Europe,1,23,7912
+12-2003,O,Sydney,Wellington,Air New Zealand,SYD-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,52,5930
+12-2003,O,Sydney,Wellington,Qantas Airways,SYD-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,62,7440
